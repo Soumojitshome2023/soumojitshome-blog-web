@@ -6,7 +6,12 @@ export default defineConfig({
   description: "SoumojitShomeBlog",
   head: [['link', { rel: 'icon', href: '/assets/icons/mypic.png' }]],
   themeConfig: {
+    logo: '/assets/icons/mypic.png',
     // https://vitepress.dev/reference/default-theme-config
+    search: {
+      provider: 'local'
+    },
+
     nav: [
       { text: 'Home', link: '/' },
       { text: 'About', link: '/about/' },
@@ -79,6 +84,14 @@ export default defineConfig({
 
     footer: {
       copyright: 'Copyright © 2023 Soumojit Shome'
+    },
+
+    lastUpdated: {
+      text: 'Updated at',
+      formatOptions: {
+        dateStyle: 'full',
+        timeStyle: 'medium'
+      }
     }
 
   }
