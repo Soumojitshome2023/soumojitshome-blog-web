@@ -36,14 +36,15 @@ export default defineConfig({
               { text: 'ARCADIA', link: '/blogs/2ndsem/ARCADIA/' },
               { text: 'My Birthday', link: '/blogs/2ndsem/MyBirthday/' },
               { text: 'GCCD Kolkata', link: '/blogs/2ndsem/GCCDKolkata/' },
-              { text: '1st Year Dones', link: '/blogs/2ndsem/1stYearDone/' },
+              { text: '1st Year Done', link: '/blogs/2ndsem/1stYearDone/' },
             ]
           },
           {
             text: '3rd Sem',
             collapsed: true,
             items: [
-              // { text: 'Cognizant Technology Solutions Seminar', link: '/blogs/1stsem/CognizantTechnologySolutionsSeminar/' },
+              { text: 'Teachers Day', link: '/blogs/3rdsem/teachersday/' },
+              { text: 'Jagadhatri Puja', link: '/blogs/3rdsem/jagadhatripuja/' },
             ]
           },
         ]

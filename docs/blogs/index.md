@@ -17,4 +17,5 @@
 
 
 ### 3rd Semester
-    Coming Soon...
+* [Teachers Day](/blogs/3rdsem/teachersday/)
+* [Jagadhatri Puja](/blogs/3rdsem/jagadhatripuja/)
