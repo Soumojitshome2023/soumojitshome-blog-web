@@ -4,22 +4,22 @@ layout: home
 
 hero:
   name: "Soumojit Shome"
-  text: "SoumojitShomeBlog"
-  tagline: My great project tagline
+  text: "Embark on a Journey with Soumojit Shome's Insights"
+  tagline: 🌟 Welcome to a unique perspective on life, technology, and beyond – join Soumojit Shome as he unveils a treasure trove of thoughts, experiences, and knowledge on a myriad of topics. This blog is not just a collection of words; it's an invitation to explore the world through Soumojit's eyes.
   actions:
     - theme: brand
-      text: Markdown Examples
-      link: /markdown-examples
+      text: Projects
+      link: /projects/
     - theme: alt
-      text: API Examples
-      link: /api-examples
+      text: Blogs
+      link: /blogs/
 
-features:
-  - title: Feature A
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature B
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature C
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+# features:
+#   - title: Feature A
+#     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+#   - title: Feature B
+#     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+#   - title: Feature C
+#     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
 ---
 
