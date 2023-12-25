@@ -13,6 +13,9 @@ hero:
     - theme: alt
       text: Blogs
       link: /blogs/
+    - theme: alt
+      text: Portfolio
+      link: https://www.soumojitshome.me/
 
 # features:
 #   - title: Feature A

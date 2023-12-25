@@ -52,7 +52,7 @@ export default defineConfig({
     ],
 
     footer: {
-      copyright: 'Copyright © 2023-present Soumojit Shome'
+      copyright: 'Copyright © 2023 Soumojit Shome'
     }
 
   }
