@@ -18,12 +18,37 @@ export default defineConfig({
     sidebar: [
       {
         text: 'Blogs',
-        collapsed: true,
+        collapsed: false,
         items: [
-          { text: 'Blog 1', link: '/blogs/blog1/' },
-          { text: 'Runtime API Examples', link: '/api-examples' }
+          {
+            text: '1st Sem',
+            collapsed: true,
+            items: [
+              { text: 'Cognizant Technology Solutions Seminar', link: '/blogs/1stsem/CognizantTechnologySolutionsSeminar/' },
+            ]
+          },
+          {
+            text: '2nd Sem',
+            collapsed: true,
+            items: [
+              { text: 'Holi', link: '/blogs/2ndsem/Holi/' },
+              { text: 'TCS Seminar', link: '/blogs/2ndsem/TCSSeminar/' },
+              { text: 'ARCADIA', link: '/blogs/2ndsem/ARCADIA/' },
+              { text: 'My Birthday', link: '/blogs/2ndsem/MyBirthday/' },
+              { text: 'GCCD Kolkata', link: '/blogs/2ndsem/GCCDKolkata/' },
+              { text: '1st Year Dones', link: '/blogs/2ndsem/1stYearDone/' },
+            ]
+          },
+          {
+            text: '3rd Sem',
+            collapsed: true,
+            items: [
+              // { text: 'Cognizant Technology Solutions Seminar', link: '/blogs/1stsem/CognizantTechnologySolutionsSeminar/' },
+            ]
+          },
         ]
       },
+
       {
         text: 'Projects',
         collapsed: false,
@@ -39,7 +64,7 @@ export default defineConfig({
         text: 'Posts',
         collapsed: true,
         items: [
-          { text: 'Markdown Examples', link: '/markdown-examples' },
+          // { text: 'Markdown Examples', link: '/markdown-examples' },
 
         ]
       }

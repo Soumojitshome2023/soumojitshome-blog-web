@@ -1,3 +1,3 @@
-# About
+# About :
 
-    Coming Soon ...
+Hello I'm Soumojit Shome and I am a first-year(2022-2026) student of Electronics and Communication Engineering (ECE) at Academy of Technology. I have always been interested in the field of engineering. I am a curious for learning and exploring new ideas. As an aspiring engineer, I believe that my studies in ECE will enable me to contribute to the development of innovative solutions to real-world problems. In my free time, I enjoy reading books, watching movies, and playing sports. I am also interested in music and play the guitar as a hobby.
