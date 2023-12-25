@@ -14,6 +14,9 @@ hero:
       text: Blogs
       link: /blogs/
     - theme: alt
+      text: Posts
+      link: /posts/
+    - theme: alt
       text: Portfolio
       link: https://www.soumojitshome.me/
 
