@@ -1,3 +1,3 @@
 # Posts
 
-    Coming Soon...
+* [College Campus View](/posts/NighttimeCollegeCampus/)

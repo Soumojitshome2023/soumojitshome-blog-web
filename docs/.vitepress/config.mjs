@@ -62,9 +62,9 @@ export default defineConfig({
       },
       {
         text: 'Posts',
-        collapsed: true,
+        collapsed: false,
         items: [
-          // { text: 'Markdown Examples', link: '/markdown-examples' },
+          { text: 'College Campus View', link: '/posts/NighttimeCollegeCampus/' },
 
         ]
       }
