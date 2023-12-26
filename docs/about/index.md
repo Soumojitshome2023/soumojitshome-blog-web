@@ -20,6 +20,9 @@ Hello I'm Soumojit Shome and I am a first-year(2022-2026) student of Electronics
 - Resume : [Resume](https://drive.google.com/file/d/11Q2jRHf40tcqbG9fF_H4CdAWA4G1ikXL/view?usp=drive_link)
 
 
+
+<iframe src="https://drive.google.com/file/d/11Q2jRHf40tcqbG9fF_H4CdAWA4G1ikXL/preview" width="500px" height="500px"></iframe>
+
 <br>
 
 <!-- # Connect with me :   -->

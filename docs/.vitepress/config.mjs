@@ -29,7 +29,7 @@ export default defineConfig({
             text: 'Random',
             collapsed: true,
             items: [
-              // { text: 'Text', link: '/blogs/Random/item/' },
+              { text: 'Coming Soon', link: '/blogs/random/' },
             ]
           },
           {

@@ -1,7 +1,7 @@
 # Blogs
 
 ## Random
-<!-- * [Random](/blogs/Random/item/) -->
+* [Coming Soon](/blogs/random/)
 
 
 ## 1st Semester
