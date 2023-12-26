@@ -18,3 +18,22 @@ Hello I'm Soumojit Shome and I am a first-year(2022-2026) student of Electronics
 - Holopin : [@soumojitshome2023](https://www.holopin.io/@soumojitshome2023#)
 - Certificates : [Certificates](https://www.linkedin.com/in/soumojit-shome/details/certifications/)
 - Resume : [Resume](https://drive.google.com/file/d/11Q2jRHf40tcqbG9fF_H4CdAWA4G1ikXL/view?usp=drive_link)
+
+
+<br>
+
+<!-- # Connect with me :   -->
+
+<div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px;">
+ 
+[![GitHub](https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/Soumojitshome2023) 
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/soumojit-shome-90a190241)
+  
+[![YouTube](https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@soumojitshome)
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://www.soumojitshome.me/)
+  
+</div>
+
+<br>

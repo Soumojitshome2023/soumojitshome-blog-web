@@ -26,6 +26,13 @@ export default defineConfig({
         collapsed: false,
         items: [
           {
+            text: 'Random',
+            collapsed: true,
+            items: [
+              // { text: 'Text', link: '/blogs/Random/item/' },
+            ]
+          },
+          {
             text: '1st Sem',
             collapsed: true,
             items: [

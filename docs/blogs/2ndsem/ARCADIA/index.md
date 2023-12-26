@@ -5,6 +5,8 @@ Armaan Malik, the popular Indian singer, recently performed at your college, and
 [![ARCADIA](./assets/ARCADIA-pic1.jpg)]() <br>
 [![ARCADIA](./assets/ARCADIA-pic2.jpg)]() <br>
 [![ARCADIA](./assets/ARCADIA-pic3.jpg)]() <br>
+[![ARCADIA](./assets/ARCADIA-pic10.jpg)]() <br>
+[![ARCADIA](./assets/ARCADIA-pic11.jpg)]() <br>
 [![ARCADIA](./assets/ARCADIA-pic4.jpg)]() <br>
 [![ARCADIA](./assets/ARCADIA-pic5.jpg)]() <br>
 [![ARCADIA](./assets/ARCADIA-pic6.jpg)]() <br>
