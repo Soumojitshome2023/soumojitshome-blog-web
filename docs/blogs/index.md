@@ -14,7 +14,7 @@
 * [ARCADIA](/blogs/2ndsem/ARCADIA/)
 * [My Birthday](/blogs/2ndsem/MyBirthday/)
 * [GCCD Kolkata](/blogs/2ndsem/GCCDKolkata/)
-* [1st Year Dones](/blogs/2ndsem/1stYearDone/)
+* [1st Year Done](/blogs/2ndsem/1stYearDone/)
 
 
 
