@@ -14,6 +14,9 @@ hero:
       text: Projects
       link: /projects/
     - theme: alt
+      text: About
+      link: /about/
+    - theme: alt
       text: Blogs
       link: /blogs/
     - theme: alt
