@@ -21,7 +21,7 @@ Hello I'm Soumojit Shome and I am a first-year(2022-2026) student of Electronics
 
 
 
-<iframe src="https://drive.google.com/file/d/11Q2jRHf40tcqbG9fF_H4CdAWA4G1ikXL/preview" width="500px" height="500px"></iframe>
+<iframe src="https://drive.google.com/file/d/11Q2jRHf40tcqbG9fF_H4CdAWA4G1ikXL/preview" width="100%" height="500px"></iframe>
 
 <br>
 
