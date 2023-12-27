@@ -17,7 +17,8 @@ export default defineConfig({
       { text: 'About', link: '/about/' },
       { text: 'Blogs', link: '/blogs/' },
       { text: 'Projects', link: '/projects/' },
-      { text: 'Posts', link: '/posts/' }
+      { text: 'Posts', link: '/posts/' },
+      { text: 'Certificates', link: '/certificates/' }
     ],
 
     sidebar: [
