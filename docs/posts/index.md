@@ -1,6 +1,7 @@
 # Posts
 
-* [College Campus View](/posts/NighttimeCollegeCampus/)
+* [College Campus Night View](/posts/NighttimeCollegeCampus/)
+* [College Campus View](/posts/CollegeCampusDay/)
 
 
 <br>

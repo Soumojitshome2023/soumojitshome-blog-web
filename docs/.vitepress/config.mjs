@@ -78,8 +78,8 @@ export default defineConfig({
         text: 'Posts',
         collapsed: false,
         items: [
-          { text: 'College Campus View', link: '/posts/NighttimeCollegeCampus/' },
-
+          { text: 'College Campus Night View', link: '/posts/NighttimeCollegeCampus/' },
+          { text: 'College Campus View', link: '/posts/CollegeCampusDay/' },
         ]
       }
     ],

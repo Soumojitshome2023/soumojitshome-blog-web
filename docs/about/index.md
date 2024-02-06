@@ -1,6 +1,6 @@
 # About
 
-Hello I'm Soumojit Shome and I am a first-year(2022-2026) student of Electronics and Communication Engineering (ECE) at Academy of Technology. I have always been interested in the field of engineering. I am a curious for learning and exploring new ideas. As an aspiring engineer, I believe that my studies in ECE will enable me to contribute to the development of innovative solutions to real-world problems. In my free time, I enjoy reading books, watching movies, and playing sports. I am also interested in music and play the guitar as a hobby.
+Hello I'm Soumojit Shome and I am a 2nd-year(2022-2026) student of Electronics and Communication Engineering (ECE) at Academy of Technology. I have always been interested in the field of engineering. I am a curious for learning and exploring new ideas. As an aspiring engineer, I believe that my studies in ECE will enable me to contribute to the development of innovative solutions to real-world problems. In my free time, I enjoy reading books, watching movies, and playing sports. I am also interested in music and play the guitar as a hobby.
 
 ---
 
@@ -15,9 +15,14 @@ Hello I'm Soumojit Shome and I am a first-year(2022-2026) student of Electronics
 - LeetCode : [Soumojit_Shome](https://leetcode.com/Soumojit_Shome/)
 - HackerRank : [soumojitshome201](https://www.hackerrank.com/soumojitshome201?hr_r=1)
 - LinkTree : [soumojitshome](https://linktr.ee/soumojitshome)
+- Google Cloud : [Soumojit Shome](https://www.cloudskillsboost.google/public_profiles/987a5721-fedc-48e5-a9eb-f19e813782bd)
 - Holopin : [@soumojitshome2023](https://www.holopin.io/@soumojitshome2023#)
+- Peerlist : [soumojit_shome](https://peerlist.io/soumojit_shome)
 - Certificates : [Certificates](https://www.linkedin.com/in/soumojit-shome/details/certifications/)
 - Resume : [Resume](https://drive.google.com/file/d/11Q2jRHf40tcqbG9fF_H4CdAWA4G1ikXL/view?usp=drive_link)
+- Mail  : soumojitshome2021@gmail.com / soumojit.shome@gmail.com
+- Phone : +91 9062300500
+
 
 
 
