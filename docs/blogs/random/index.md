@@ -1,3 +1,0 @@
-# Coming Soon...
-
-<!-- <iframe src="./test.pdf" width="500px" height="500px"></iframe> -->

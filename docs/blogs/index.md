@@ -1,10 +1,12 @@
 # Blogs
 
 ## Random
-* [Coming Soon](/blogs/random/)
+* [Random Day](/blogs/random/RandomDay/)
+* [College Pics](/blogs/random/CollegePics/)
 
 
 ## 1st Semester
+* [First Day](/blogs/1stsem/FirstDayAot/)
 * [Cognizant Technology Solutions Seminars](/blogs/1stsem/CognizantTechnologySolutionsSeminar/)
 
 ## 2nd Semester
@@ -21,6 +23,7 @@
 ## 3rd Semester
 * [Teachers Day](/blogs/3rdsem/teachersday/)
 * [Jagadhatri Puja](/blogs/3rdsem/jagadhatripuja/)
+* [3rd Sem Lab Last Day](/blogs/3rdsem/3rd-sem-lab-last-day/)
 
 
 

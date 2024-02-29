@@ -30,13 +30,15 @@ export default defineConfig({
             text: 'Random',
             collapsed: true,
             items: [
-              { text: 'Coming Soon', link: '/blogs/random/' },
+              { text: 'Random Day', link: '/blogs/random/RandomDay/' },
+              { text: 'College Pics', link: '/blogs/random/CollegePics/' },
             ]
           },
           {
             text: '1st Sem',
             collapsed: true,
             items: [
+              { text: 'First Day', link: '/blogs/1stsem/FirstDayAot/' },
               { text: 'Cognizant Technology Solutions Seminar', link: '/blogs/1stsem/CognizantTechnologySolutionsSeminar/' },
             ]
           },
@@ -58,6 +60,7 @@ export default defineConfig({
             items: [
               { text: 'Teachers Day', link: '/blogs/3rdsem/teachersday/' },
               { text: 'Jagadhatri Puja', link: '/blogs/3rdsem/jagadhatripuja/' },
+              { text: '3rd Sem Lab Last Day', link: '/blogs/3rdsem/3rd-sem-lab-last-day/' },
             ]
           },
         ]

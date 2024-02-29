@@ -1,0 +1,18 @@
+## College Campus Pics
+
+ <img src="./assets/Collegepic (1).jpg" alt="Img"/><br>
+ <img src="./assets/Collegepic (2).jpg" alt="Img"/><br>
+ <img src="./assets/Collegepic (3).jpg" alt="Img"/><br>
+ <img src="./assets/Collegepic (5).jpg" alt="Img"/><br>
+ <img src="./assets/Collegepic (6).jpg" alt="Img"/><br>
+ <img src="./assets/Collegepic (7).jpg" alt="Img"/><br>
+ <img src="./assets/Collegepic (8).jpg" alt="Img"/><br>
+ <img src="./assets/Collegepic (9).jpg" alt="Img"/><br>
+ <img src="./assets/Collegepic (10).jpg" alt="Img"/><br>
+ <img src="./assets/Collegepic (13).jpg" alt="Img"/><br>
+ <img src="./assets/Collegepic (16).jpg" alt="Img"/><br>
+ <img src="./assets/Collegepic (17).jpg" alt="Img"/><br>
+ <img src="./assets/Collegepic (18).jpg" alt="Img"/><br>
+ <img src="./assets/Collegepic (24).jpg" alt="Img"/><br>
+ <img src="./assets/Collegepic (27).jpg" alt="Img"/><br>
+ <img src="./assets/Collegepic (31).jpg" alt="Img"/><br>
