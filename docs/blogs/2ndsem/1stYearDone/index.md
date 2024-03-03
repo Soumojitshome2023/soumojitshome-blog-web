@@ -7,12 +7,11 @@ Dear friends, Your presence in my life has brought immense joy, support, and cou
 Thanks a lot
 
 
-[![1st Year Done](./assets/1stYearDonepic9.jpg)]() <br>
-[![1st Year Done](./assets/1stYearDonepic4.jpg)]() <br>
-[![1st Year Done](./assets/1stYearDonepic1.jpg)]() <br>
-[![1st Year Done](./assets/1stYearDonepic2.jpg)]() <br>
-[![1st Year Done](./assets/1stYearDonepic3.jpg)]() <br>
-[![1st Year Done](./assets/1stYearDonepic5.jpg)]() <br>
-[![1st Year Done](./assets/1stYearDonepic6.jpg)]() <br>
-[![1st Year Done](./assets/1stYearDonepic7.jpg)]() <br>
-[![1st Year Done](./assets/1stYearDonepic8.jpg)]() <br>
+ <img src="./assets/1stYearDonepic (9).jpg" alt="1stYearDonepic Img"/><br>
+ <img src="./assets/1stYearDonepic (4).jpg" alt="1stYearDonepic Img"/><br>
+ <img src="./assets/1stYearDonepic (1).jpg" alt="1stYearDonepic Img"/><br>
+ <img src="./assets/1stYearDonepic (2).jpg" alt="1stYearDonepic Img"/><br>
+ <img src="./assets/1stYearDonepic (5).jpg" alt="1stYearDonepic Img"/><br>
+ <img src="./assets/1stYearDonepic (6).jpg" alt="1stYearDonepic Img"/><br>
+ <img src="./assets/1stYearDonepic (7).jpg" alt="1stYearDonepic Img"/><br>
+ <img src="./assets/1stYearDonepic (8).jpg" alt="1stYearDonepic Img"/><br>

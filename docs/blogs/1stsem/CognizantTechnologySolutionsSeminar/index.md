@@ -4,27 +4,18 @@ The Cognizant Technology Solutions seminar held at our college was an excellent 
 
 
 #### College Auditorium:
-[![College Auditorium](./assets/collegeaudi.jpg)]()
-<br>
-[![College Auditorium](./assets/IMG-20221202-WA0003.jpg)]()
+<!-- [![College Auditorium](./assets/collegeaudi.jpg)]() -->
+<!-- <br> -->
+<!-- [![College Auditorium](./assets/IMG-20221202-WA0003.jpg)]() -->
 
+  <img src="./assets/ctspic (1).jpg" alt="CTS Img"/><br>
+  <img src="./assets/ctspic (2).jpg" alt="CTS Img"/><br>
+  <img src="./assets/ctspic (6).jpg" alt="CTS Img"/><br>
+  <img src="./assets/ctspic (7).jpg" alt="CTS Img"/><br>
+  <img src="./assets/ctspic (10).jpg" alt="CTS Img"/><br>
+  <img src="./assets/ctspic (12).jpg" alt="CTS Img"/><br>
+  <img src="./assets/ctspic (15).jpg" alt="CTS Img"/><br>
+  <img src="./assets/ctspic (23).jpg" alt="CTS Img"/><br>
+  <img src="./assets/ctspic (33).jpg" alt="CTS Img"/><br>
+  <img src="./assets/ctspic (34).jpg" alt="CTS Img"/><br>
 
-<details>
-  <summary>Other Images</summary>
-  <img src="./assets/IMG-20221130-WA0008.jpg" alt="CTS Img"/><br>
-  <img src="./assets/IMG-20221130-WA0010.jpg" alt="CTS Img"/><br>
-  <img src="./assets/IMG-20221130-WA0012.jpg" alt="CTS Img"/><br>
-  <img src="./assets/IMG-20221130-WA0013.jpg" alt="CTS Img"/><br>
-  <img src="./assets/IMG-20221130-WA0019.jpg" alt="CTS Img"/><br>
-  <!-- <img src="./assets/IMG-20221130-WA0020.jpg" alt="CTS Img"/> -->
-  <img src="./assets/IMG-20221130-WA0021.jpg" alt="CTS Img"/><br>
-  <img src="./assets/IMG-20221130-WA0022.jpg" alt="CTS Img"/><br>
-  <img src="./assets/IMG-20221130-WA0026.jpg" alt="CTS Img"/><br>
-  <!-- <img src="./assets/IMG-20221130-WA0027.jpg" alt="CTS Img"/> -->
-  <!-- <img src="./assets/IMG-20221130-WA0035.jpg" alt="CTS Img"/> -->
-  <!-- <img src="./assets/IMG-20221130-WA0036.jpg" alt="CTS Img"/> -->
-  <img src="./assets/IMG-20221130-WA0053.jpg" alt="CTS Img"/><br>
-  <img src="./assets/IMG-20221130-WA0054.jpg" alt="CTS Img"/><br>
-  <img src="./assets/IMG-20221201-WA0005.jpg" alt="CTS Img"/><br>
-  <img src="./assets/IMG-20221202-WA0002.jpg" alt="CTS Img"/><br>
-</details>

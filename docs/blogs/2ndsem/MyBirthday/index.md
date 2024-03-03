@@ -6,12 +6,14 @@ Overall, the surprise birthday celebration was a memorable experience that demon
 Overall, I feel grateful and blessed to have such wonderful friends in my life. Their surprise celebration in college was a reminder of the power of friendship. I will always treasure this memory and the friendship that made it possible.
 Getting this type of friends is really a blessing.
 
-[![My Birthday](./assets/1682425341493.jpg)]() <br>
-[![My Birthday](./assets/1682432468234.jpg)]() <br>
-[![My Birthday](./assets/IMG_20230425_124049.jpg)]() <br>
-[![My Birthday](./assets/IMG_20230425_124104.jpg)]() <br>
-[![My Birthday](./assets/IMG_20230425_124121.jpg)]() <br>
-[![My Birthday](./assets/IMG_20230425_124624.jpg)]() <br>
-[![My Birthday](./assets/IMG-20230425-WA0011.jpg)]() <br>
-[![My Birthday](./assets/IMG-20230425-WA0029.jpg)]() <br>
-[![My Birthday](./assets/1682432468247.jpg)]() <br>
+ <img src="./assets/mybday2023 (1).jpg" alt="mybday2023 Img"/><br>
+ <img src="./assets/mybday2023 (2).jpg" alt="mybday2023 Img"/><br>
+ <img src="./assets/mybday2023 (4).jpg" alt="mybday2023 Img"/><br>
+ <img src="./assets/mybday2023 (5).jpg" alt="mybday2023 Img"/><br>
+ <img src="./assets/mybday2023 (14).jpg" alt="mybday2023 Img"/><br>
+ <img src="./assets/mybday2023 (12).jpg" alt="mybday2023 Img"/><br>
+ <img src="./assets/mybday2023 (6).jpg" alt="mybday2023 Img"/><br>
+ <img src="./assets/mybday2023 (7).jpg" alt="mybday2023 Img"/><br>
+ <img src="./assets/mybday2023 (8).jpg" alt="mybday2023 Img"/><br>
+ <img src="./assets/mybday2023 (16).jpg" alt="mybday2023 Img"/><br>
+ <img src="./assets/mybday2023 (3).jpg" alt="mybday2023 Img"/><br>
