@@ -63,6 +63,13 @@ export default defineConfig({
               { text: '3rd Sem Lab Last Day', link: '/blogs/3rdsem/3rd-sem-lab-last-day/' },
             ]
           },
+          {
+            text: '4th Sem',
+            collapsed: true,
+            items: [
+              { text: 'Coming soon', link: '/blogs/4thsem/' },
+            ]
+          },
         ]
       },
 
