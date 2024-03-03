@@ -67,7 +67,7 @@ export default defineConfig({
             text: '4th Sem',
             collapsed: true,
             items: [
-              { text: 'Coming soon', link: '/blogs/4thsem/' },
+              { text: 'Coming soon' },
             ]
           },
         ]

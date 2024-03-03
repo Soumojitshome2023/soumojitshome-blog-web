@@ -26,7 +26,7 @@
 * [3rd Sem Lab Last Day](/blogs/3rdsem/3rd-sem-lab-last-day/)
 
 ## 4th Semester
-* [Coming soon....](/blogs/4thsem/)
+* Coming soon....
 
 
 <br>
