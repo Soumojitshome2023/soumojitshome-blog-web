@@ -81,6 +81,8 @@ export default defineConfig({
           { text: 'My Docs Anywhere', link: '/projects/mydocswebapp/' },
           { text: 'ToDo WebApp', link: '/projects/todowebapp/' },
           { text: 'CertifyHub', link: '/projects/certifyhub/' },
+          { text: 'Link Shortener', link: '/projects/linkshortener/' },
+          { text: 'Easy Share', link: '/projects/easyshare/' },
 
         ]
       },

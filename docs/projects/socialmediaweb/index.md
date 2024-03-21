@@ -1,4 +1,4 @@
-# [Social Media WebApp](https://soumojit-nextjs-lensworld.vercel.app/)
+# [Social Media WebApp](https://lensworld.vercel.app/)
 
 ---
 
@@ -19,29 +19,38 @@ What sets this project apart is its user-friendly interface and robust functiona
 
 I'm incredibly proud of the work put into this project and the efforts that made it possible. This web application is not just a digital space; it's a vibrant community where users can express themselves.
 
-I invite you to check out the web app and experience the seamless navigation. Thank you to everyone who supported this journey, and I look forward to seeing you all on the platform!
+I invite you to check out the web app and experience the seamless navigation. Thank you to everyone who supported this journey, and I look forward to seeing you all on the platform! 🔥
 
-🔥 Special thanks to Swastik Bose, Priyadarshan Ghosh, Ritam Majumder 😊.
-
-Project Link : [Click to Visit Website](https://soumojit-nextjs-lensworld.vercel.app/) ✨
+Project Link : [Click to Visit Website](https://lensworld.vercel.app/) ✨
 
 Video Link : [Click to Visit YouTube Video](https://youtu.be/llMs_W74xwo?si=xwlPaqTv3eoxxO_M)
 
 LinkedIn Post Link : [Click to Visit LinkedIn Post](https://www.linkedin.com/posts/soumojit-shome_socialmedia-nextjs-firebase-activity-7128411412804059136-XxQr?utm_source=share&utm_medium=member_desktop)
 
 
-#### 🚀 Home Page:
-[![Home Page](./assets/home.png)]()
-
+#### 🚀 Start Page:
+<img src="./assets/lensworldpic (1).png" alt="lensworldpic Img"/><br>
 
 #### 🚀 Feed:
-[![Feed](./assets/feed.png)]()
+<img src="./assets/lensworldpic (2).png" alt="lensworldpic Img"/><br>
+<img src="./assets/lensworldpic (6).png" alt="lensworldpic Img"/><br>
 
-#### 🚀 Post Page:
-[![Post Page](./assets/post.png)]()
+#### 🚀 Profile:
+<img src="./assets/lensworldpic (3).png" alt="lensworldpic Img"/><br>
+<img src="./assets/lensworldpic (4).png" alt="lensworldpic Img"/><br>
 
-#### 🚀 User Profile Page:
-[![User Profile Page](./assets/userprofile.png)]()
+#### 🚀 Users:
+<img src="./assets/lensworldpic (5).png" alt="lensworldpic Img"/><br>
+
+#### 🚀 Post:
+<img src="./assets/lensworldpic (7).png" alt="lensworldpic Img"/><br>
+<img src="./assets/lensworldpic (8).png" alt="lensworldpic Img"/><br>
+<img src="./assets/lensworldpic (9).png" alt="lensworldpic Img"/><br>
+
+#### 🚀 Home:
+<img src="./assets/lensworldpic (10).png" alt="lensworldpic Img"/><br>
+
+
 
 #SocialMedia #NextJS #Firebase #WebDevelopment #Innovation #UserExperience #DigitalCommunity 🚀
 
