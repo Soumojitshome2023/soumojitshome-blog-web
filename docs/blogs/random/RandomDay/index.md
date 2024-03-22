@@ -16,3 +16,7 @@
 <img src="./assets/RandomDay (67).jpg" alt="Img"/><br>
 <img src="./assets/RandomDay (171).jpg" alt="Img"/><br>
 <img src="./assets/RandomDay (170).jpg" alt="Img"/><br>
+<img src="./assets/RandomDay (235).jpg" alt="Img"/><br>
+<img src="./assets/RandomDay (217).jpg" alt="Img"/><br>
+<img src="./assets/RandomDay (237).jpg" alt="Img"/><br>
+<img src="./assets/RandomDay (212).jpg" alt="Img"/><br>
