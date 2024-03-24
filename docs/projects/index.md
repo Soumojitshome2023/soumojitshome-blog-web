@@ -5,7 +5,8 @@
 3. [ToDo WebApp](/projects/todowebapp/)
 4. [CertifyHub](/projects/certifyhub/)
 5. [Link Shortener](/projects/linkshortener/)
-5. [Easy Share](/projects/easyshare/)
+6. [Easy Share](/projects/easyshare/)
+7. [Attendance Manager](/projects/attendance-manager/)
 
 # Others Projects
 1. [Learning Web](https://learning-website-soumojit.vercel.app/)

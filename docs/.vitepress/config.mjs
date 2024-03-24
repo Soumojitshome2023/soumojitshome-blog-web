@@ -83,6 +83,7 @@ export default defineConfig({
           { text: 'CertifyHub', link: '/projects/certifyhub/' },
           { text: 'Link Shortener', link: '/projects/linkshortener/' },
           { text: 'Easy Share', link: '/projects/easyshare/' },
+          { text: 'Attendance Manager', link: '/projects/attendance-manager/' },
 
         ]
       },
