@@ -49,13 +49,25 @@ Project Link : [Click to Visit Website](https://myattendance.vercel.app/) ✨
 
 Video Link : [Click to Visit YouTube Video](https://youtu.be/YCaD11BteE0?si=lRdmh5BALvnVzy-q)
 
+LinkedIn Post Link : [Click to Visit LinkedIn Post](https://www.linkedin.com/posts/soumojit-shome_nextjs-webdevelopment-activity-7178033965511897089-4OhZ?utm_source=share&utm_medium=member_desktop)
+
+---
+
 ## Page Pic:
 <img src="./assets/attendance-managerpic.png" alt="attendance-manager Img"/><br>
+
+---
 
 #### 🚀 Video:
 
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/YCaD11BteE0?si=DZKCRJqc2pMS4BSg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
+
+---
+
+#### 🚀 LinkedIn Post:
+
+<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:7178033962244562944" height="500" width="100%" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
 
 
 #NextJS #WebDevelopment
