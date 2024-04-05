@@ -1,12 +1,25 @@
-# [Link Shortener WebApp](https://easy-share-soumojit.vercel.app/)
-
+# [File Sharing Web App](https://easy-share-soumojit.vercel.app/)
 ---
+# File Sharing Web App
+This project is a simple file sharing web application built using Next.js, Firebase, Nodemailer, and Tailwind CSS.
 
-Project Link : [Click to Visit Website](https://easy-share-soumojit.vercel.app/) ✨
+## Features
+* **File Uploading:** Users can upload files to the server.
+* **Share Link Generation:** After uploading files, users receive a shareable link that can be sent via email.
+* **Email Integration:** Users can input email addresses to send the shareable link directly to recipients.
+* **Secure Download:** Anyone with the shareable link can securely download the shared file.
+Technologies Used
+* **Next.js:** A React framework for building server-rendered applications.
+* **Firebase:** Provides backend services like authentication, storage, and database.
+* **Nodemailer:** Node.js module for sending emails.
+* **Tailwind CSS:** A utility-first CSS framework for building custom designs quickly.
 
 
+
+**Project Link :** [Click to Visit Website](https://easy-share-soumojit.vercel.app/) ✨
 
 #### 🚀 Home:
+
 <img src="./assets/easyshare (1).png" alt="linkshortener Img"/><br>
 
 
