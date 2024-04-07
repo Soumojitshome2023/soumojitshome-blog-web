@@ -1,6 +1,8 @@
 # College Campus Night View
 
 
+[View More...](/blogs/random/CollegePics/)
+
 <!-- <img src="./assets/NighttimeCollegeCampuspic1.jpg" alt="drawing" style="width:100%;"/><br>
 <img src="./assets/NighttimeCollegeCampuspic2.jpg" alt="drawing" style="width:100%;"/><br>
 <img src="./assets/NighttimeCollegeCampuspic3.jpg" alt="drawing" style="width:100%;"/><br>

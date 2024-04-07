@@ -2,6 +2,7 @@
 
 * [College Campus Night View](/posts/NighttimeCollegeCampus/)
 * [College Campus View](/posts/CollegeCampusDay/)
+* [View More...](/blogs/random/CollegePics/)
 
 
 <br>

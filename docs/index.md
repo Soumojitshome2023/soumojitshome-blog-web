@@ -7,7 +7,7 @@ hero:
   text: "Embark on a Journey with Soumojit Shome's Insights"
   tagline: 🌟 Welcome to a unique perspective on life, technology, and beyond – join Soumojit Shome as he unveils a treasure trove of thoughts, experiences, and knowledge on a myriad of topics. This blog is not just a collection of words; it's an invitation to explore the world through Soumojit's eyes.
   image:
-    src: /mypic.png
+    src: /mypic2.jpg
     alt: Soumojit Shome
   actions:
     - theme: brand

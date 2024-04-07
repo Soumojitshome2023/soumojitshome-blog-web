@@ -4,9 +4,9 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   title: "Soumojit Shome",
   description: "SoumojitShomeBlog",
-  head: [['link', { rel: 'icon', href: '/mypic.png' }]],
+  head: [['link', { rel: 'icon', href: '/mypic2.jpg' }]],
   themeConfig: {
-    logo: '/mypic.png',
+    logo: '/mypic2.jpg',
     // https://vitepress.dev/reference/default-theme-config
     search: {
       provider: 'local'
@@ -104,7 +104,7 @@ export default defineConfig({
     ],
 
     footer: {
-      copyright: 'Copyright © 2023 Soumojit Shome'
+      copyright: 'Copyright © 2024 Soumojit Shome'
     },
 
     lastUpdated: {
