@@ -2,12 +2,15 @@
 
  <img src="./assets/Collegepic (54).jpg" alt="Img"/><br>
  <img src="./assets/Collegepic (86).jpg" alt="Img"/><br>
+ <img src="./assets/Collegepic (119).jpg" alt="Img"/><br>
+ <img src="./assets/Collegepic (120).jpg" alt="Img"/><br>
  <img src="./assets/Collegepic (90).jpg" alt="Img"/><br>
  <img src="./assets/Collegepic (91).jpg" alt="Img"/><br>
  <img src="./assets/Collegepic (92).jpg" alt="Img"/><br>
  <img src="./assets/Collegepic (93).jpg" alt="Img"/><br>
  <img src="./assets/Collegepic (94).jpg" alt="Img"/><br>
- <img src="./assets/Collegepic (95).jpg" alt="Img"/><br>
+ <!-- <img src="./assets/Collegepic (95).jpg" alt="Img"/><br> -->
+ <img src="./assets/Collegepic (125).jpg" alt="Img"/><br>
  <img src="./assets/Collegepic (64).jpg" alt="Img"/><br>
  <img src="./assets/Collegepic (48).jpg" alt="Img"/><br>
  <img src="./assets/Collegepic (43).jpg" alt="Img"/><br>
@@ -16,6 +19,9 @@
  <img src="./assets/Collegepic (98).jpg" alt="Img"/><br>
  <img src="./assets/Collegepic (99).jpg" alt="Img"/><br>
  <img src="./assets/Collegepic (100).jpg" alt="Img"/><br>
+ <img src="./assets/Collegepic (121).jpg" alt="Img"/><br>
+ <img src="./assets/Collegepic (123).jpg" alt="Img"/><br>
+ <img src="./assets/Collegepic (124).jpg" alt="Img"/><br>
  <img src="./assets/Collegepic (101).jpg" alt="Img"/><br>
  <img src="./assets/Collegepic (102).jpg" alt="Img"/><br>
  <img src="./assets/Collegepic (103).jpg" alt="Img"/><br>
