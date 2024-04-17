@@ -67,7 +67,8 @@ export default defineConfig({
             text: '4th Sem',
             collapsed: true,
             items: [
-              { text: 'Coming soon' },
+              { text: 'Didir Bia', link: '/blogs/4thsem/didirbia/' },
+              { text: 'TechFiesta', link: '/blogs/4thsem/techfiesta/' },
             ]
           },
         ]
@@ -84,6 +85,7 @@ export default defineConfig({
           { text: 'Link Shortener', link: '/projects/linkshortener/' },
           { text: 'Easy Share', link: '/projects/easyshare/' },
           { text: 'Attendance Manager', link: '/projects/attendance-manager/' },
+          { text: 'Blog WebApp', link: '/projects/blog-webapp/' },
 
         ]
       },

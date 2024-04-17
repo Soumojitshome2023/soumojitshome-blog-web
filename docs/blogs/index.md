@@ -26,7 +26,8 @@
 * [3rd Sem Lab Last Day](/blogs/3rdsem/3rd-sem-lab-last-day/)
 
 ## 4th Semester
-* Coming soon....
+* [Didir Bia](/blogs/4thsem/didirbia/)
+* [TechFiesta](/blogs/4thsem/techfiesta/)
 
 
 <br>

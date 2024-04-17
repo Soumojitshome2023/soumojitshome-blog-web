@@ -7,6 +7,7 @@
 5. [Link Shortener](/projects/linkshortener/)
 6. [Easy Share](/projects/easyshare/)
 7. [Attendance Manager](/projects/attendance-manager/)
+8. [Blog WebApp](/projects/blog-webapp/)
 
 # Others Projects
 1. [Learning Web](https://learning-website-soumojit.vercel.app/)
