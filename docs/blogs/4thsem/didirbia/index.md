@@ -1,7 +1,7 @@
 # Didir Bia 4 March 2024
 ---
 
-<!-- <img src="./assets/didirbia (72).jpg" alt="didirbia Img"/><br> -->
+<img src="./assets/didirbia (72).jpg" alt="didirbia Img"/><br>
 <img src="./assets/didirbia (75).jpg" alt="didirbia Img"/><br>
 <img src="./assets/didirbia (76).jpg" alt="didirbia Img"/><br>
 <img src="./assets/didirbia (77).jpg" alt="didirbia Img"/><br>
