@@ -6,7 +6,7 @@
 <img src="./assets/didirbia (76).jpg" alt="didirbia Img"/><br>
 <img src="./assets/didirbia (77).jpg" alt="didirbia Img"/><br>
 <img src="./assets/didirbia (70).jpg" alt="didirbia Img"/><br>
-<img src="./assets/didirbia (67).jpg" alt="didirbia Img"/><br>
+<!-- <img src="./assets/didirbia (67).jpg" alt="didirbia Img"/><br>
 <img src="./assets/didirbia (68).jpg" alt="didirbia Img"/><br>
 <img src="./assets/didirbia (69).jpg" alt="didirbia Img"/><br>
 <img src="./assets/didirbia (82).jpg" alt="didirbia Img"/><br>
@@ -17,7 +17,7 @@
 <img src="./assets/didirbia (24).jpg" alt="didirbia Img"/><br>
 <img src="./assets/didirbia (21).jpg" alt="didirbia Img"/><br>
 <img src="./assets/didirbia (79).jpg" alt="didirbia Img"/><br>
-<img src="./assets/didirbia (95).jpg" alt="didirbia Img"/><br>
+<img src="./assets/didirbia (95).jpg" alt="didirbia Img"/><br> -->
 
 ---
 #### 🚀 Video:
