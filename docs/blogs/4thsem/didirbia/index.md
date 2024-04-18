@@ -1,23 +1,23 @@
 # Didir Bia 4 March 2024
 ---
 
-<img src="./assets/didirbia(70).jpg" alt="didirbia Img"/><br>
-<img src="./assets/didirbia(74).jpg" alt="didirbia Img"/><br>
-<img src="./assets/didirbia(71).jpg" alt="didirbia Img"/><br>
 <img src="./assets/didirbia(72).jpg" alt="didirbia Img"/><br>
-<img src="./assets/didirbia(73).jpg" alt="didirbia Img"/><br>
-<!-- <img src="./assets/didirbia (67).jpg" alt="didirbia Img"/><br>
-<img src="./assets/didirbia (68).jpg" alt="didirbia Img"/><br>
-<img src="./assets/didirbia (69).jpg" alt="didirbia Img"/><br>
-<img src="./assets/didirbia (82).jpg" alt="didirbia Img"/><br>
-<img src="./assets/didirbia (111).jpg" alt="didirbia Img"/><br>
-<img src="./assets/didirbia (112).jpg" alt="didirbia Img"/><br>
-<img src="./assets/didirbia (47).jpg" alt="didirbia Img"/><br>
-<img src="./assets/didirbia (80).jpg" alt="didirbia Img"/><br>
-<img src="./assets/didirbia (24).jpg" alt="didirbia Img"/><br>
-<img src="./assets/didirbia (21).jpg" alt="didirbia Img"/><br>
-<img src="./assets/didirbia (79).jpg" alt="didirbia Img"/><br>
-<img src="./assets/didirbia (95).jpg" alt="didirbia Img"/><br> -->
+<img src="./assets/didirbia(75).jpg" alt="didirbia Img"/><br>
+<img src="./assets/didirbia(76).jpg" alt="didirbia Img"/><br>
+<img src="./assets/didirbia(77).jpg" alt="didirbia Img"/><br>
+<img src="./assets/didirbia(70).jpg" alt="didirbia Img"/><br>
+<img src="./assets/didirbia(67).jpg" alt="didirbia Img"/><br>
+<img src="./assets/didirbia(68).jpg" alt="didirbia Img"/><br>
+<img src="./assets/didirbia(69).jpg" alt="didirbia Img"/><br>
+<img src="./assets/didirbia(82).jpg" alt="didirbia Img"/><br>
+<img src="./assets/didirbia(111).jpg" alt="didirbia Img"/><br>
+<img src="./assets/didirbia(112).jpg" alt="didirbia Img"/><br>
+<img src="./assets/didirbia(47).jpg" alt="didirbia Img"/><br>
+<img src="./assets/didirbia(80).jpg" alt="didirbia Img"/><br>
+<img src="./assets/didirbia(24).jpg" alt="didirbia Img"/><br>
+<img src="./assets/didirbia(21).jpg" alt="didirbia Img"/><br>
+<img src="./assets/didirbia(79).jpg" alt="didirbia Img"/><br>
+<img src="./assets/didirbia(95).jpg" alt="didirbia Img"/><br>
 
 ---
 #### 🚀 Video:
