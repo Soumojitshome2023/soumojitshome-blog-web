@@ -18,6 +18,7 @@
 <img src="./assets/didirbia(21).jpg" alt="didirbia Img"/><br>
 <img src="./assets/didirbia(79).jpg" alt="didirbia Img"/><br>
 <img src="./assets/didirbia(95).jpg" alt="didirbia Img"/><br>
+<img src="./assets/didirbia(15).jpg" alt="didirbia Img"/><br>
 
 ---
 #### 🚀 Video:

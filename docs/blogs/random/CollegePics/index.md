@@ -1,4 +1,6 @@
-## College Campus Pics
+# College Campus Pics
+
+---
 
  <img src="./assets/Collegepic (54).jpg" alt="Img"/><br>
  <img src="./assets/Collegepic (86).jpg" alt="Img"/><br>
@@ -57,6 +59,7 @@
  <img src="./assets/Collegepic (16).jpg" alt="Img"/><br>
  <img src="./assets/Collegepic (17).jpg" alt="Img"/><br>
  <img src="./assets/Collegepic (18).jpg" alt="Img"/><br>
+ <img src="./assets/Collegepic (127).jpg" alt="Img"/><br>
 
 
 
