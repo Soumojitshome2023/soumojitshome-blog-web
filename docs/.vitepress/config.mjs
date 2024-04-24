@@ -86,6 +86,7 @@ export default defineConfig({
           { text: 'Easy Share', link: '/projects/easyshare/' },
           { text: 'Attendance Manager', link: '/projects/attendance-manager/' },
           { text: 'Blog WebApp', link: '/projects/blog-webapp/' },
+          { text: 'NextJs Chat WebApp', link: '/projects/nextjs-chatapp/' },
 
         ]
       },
