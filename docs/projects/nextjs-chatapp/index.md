@@ -7,6 +7,13 @@ Andromeda Chat is a real-time chat application designed to provide seamless comm
 
 Project Link : [Click to Visit Website](https://andromedachat.vercel.app/) ✨
 
+
+Video Link : [Click to Visit YouTube Video](https://youtu.be/LORGdE3g8nM?si=G9gWgWNHQ9ShcOpO)
+
+LinkedIn Post Link : [Click to Visit LinkedIn Post](https://www.linkedin.com/posts/soumojit-shome_andromeda-chat-webapp-with-nextjs-activity-7189207524322017281-c5i7?utm_source=share&utm_medium=member_desktop)
+
+
+
 ## **Features :**
 * **Sign Up:** Easily create an account with just a few simple steps.
 * **Login:** Securely log in to your account using your credentials.
@@ -41,12 +48,29 @@ Andromeda Chat is built using the following technologies:
 
 Project Link : [Click to Visit Website](https://andromedachat.vercel.app/) ✨
 
+
+Video Link : [Click to Visit YouTube Video](https://youtu.be/LORGdE3g8nM?si=G9gWgWNHQ9ShcOpO)
+
+LinkedIn Post Link : [Click to Visit LinkedIn Post](https://www.linkedin.com/posts/soumojit-shome_andromeda-chat-webapp-with-nextjs-activity-7189207524322017281-c5i7?utm_source=share&utm_medium=member_desktop)
+
+
 ---
 
 ## Page Pic:
 <img src="./assets/nextjs-chatapp-pic.png" alt="nextjs-chatapp-pic Img"/><br>
 
 ---
+
+
+#### 🚀 Video:
+
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/LORGdE3g8nM?si=Aj92MZJSQnmBBezd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+---
+
+#### 🚀 LinkedIn Post:
+
+<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:7189207523420250113" height="500" width="100%" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
 
 
 
