@@ -1,8 +1,12 @@
 # Blogs
 
 ## Random
-* [Random Day](/blogs/random/RandomDay/)
-* [College Pics](/blogs/random/CollegePics/)
+* **Casual :** 
+    * [Random Day](/blogs/random/RandomDay/)
+    * [College Pics](/blogs/random/CollegePics/)
+
+* **Tech :**
+    * [Markdown Parser and Renderer NPM Package](/blogs/random/markdown-parser-and-renderer-npm-package/)
 
 
 ## 1st Semester

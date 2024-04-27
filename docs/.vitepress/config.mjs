@@ -32,6 +32,7 @@ export default defineConfig({
             items: [
               { text: 'Random Day', link: '/blogs/random/RandomDay/' },
               { text: 'College Pics', link: '/blogs/random/CollegePics/' },
+              { text: 'Markdown Parser and Renderer NPM Package', link: '/blogs/random/markdown-parser-and-renderer-npm-package/' },
             ]
           },
           {
