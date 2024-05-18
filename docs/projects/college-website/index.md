@@ -5,7 +5,7 @@
 <br />
 <div align="center">
   <a target="_blank" href="https://github.com/Soumojitshome2023/college-website-nextjs">
-    <img src="./assets/CollegeLogo.png" alt="College Logo" width="150" >
+    <img src="./assets/College-Logo.png" alt="College Logo" width="150" >
   </a>
 
   <h3 align="center">College Website (Academy Of Technology)</h3>
