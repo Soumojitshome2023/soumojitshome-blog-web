@@ -9,6 +9,7 @@
 7. [Attendance Manager](/projects/attendance-manager/)
 8. [Blog WebApp](/projects/blog-webapp/)
 9. [NextJs Chat WebApp](/projects/nextjs-chatapp/)
+10. [College Website](/projects/college-website/)
 
 # Others Projects
 1. [Learning Web](https://learning-website-soumojit.vercel.app/)

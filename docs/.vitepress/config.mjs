@@ -88,6 +88,7 @@ export default defineConfig({
           { text: 'Attendance Manager', link: '/projects/attendance-manager/' },
           { text: 'Blog WebApp', link: '/projects/blog-webapp/' },
           { text: 'NextJs Chat WebApp', link: '/projects/nextjs-chatapp/' },
+          { text: 'College Website', link: '/projects/college-website/' },
 
         ]
       },
