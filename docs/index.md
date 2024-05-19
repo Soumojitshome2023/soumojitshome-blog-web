@@ -1,7 +1,15 @@
 ---
 # https://vitepress.dev/reference/default-theme-home-page
+
+
+
 layout: home
 
+head:
+  - - meta
+    - property: 'og:image'
+      content: /mypic2.jpg
+      
 hero:
   name: "Soumojit Shome"
   text: "Embark on a Journey with Soumojit Shome's Insights"
@@ -29,26 +37,31 @@ hero:
 # features:
 #   - title: Feature A
 #     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+#     link: https://www.soumojitshome.me/
 #   - title: Feature B
 #     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
 #   - title: Feature C
 #     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+
 ---
 
 <br>
 
-<!-- # Connect with me :   -->
 
 <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px;">
  
-[![GitHub](https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/Soumojitshome2023) 
+[![GitHub](/assets/badge/github-badge.svg)](https://github.com/Soumojitshome2023) 
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/soumojit-shome-90a190241)
+[![LinkedIn](/assets/badge/linkedin-badge.svg)](https://www.linkedin.com/in/soumojit-shome-90a190241)
   
-[![YouTube](https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@soumojitshome)
+[![YouTube](/assets/badge/youtube-badge.svg)](https://youtube.com/@soumojitshome)
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://www.soumojitshome.me/)
+[![Portfolio](/assets/badge/Portfolio-badge.svg)](https://www.soumojitshome.me/)
+
+![Phone](/assets/badge/MyPhone-badge.svg)
+
+![Mail](/assets/badge/MyMail-badge.svg)
   
-</div>
+</div> 
 
-<br>
+![wave-animation-bottom](/assets/wave-animation-bottom.svg)

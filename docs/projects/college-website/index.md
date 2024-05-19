@@ -1,6 +1,5 @@
-# [College Website (Academy Of Technology)](https://aotedu.vercel.app/)
+# [College Website](https://aotedu.vercel.app/)
 
-<a name="readme-top"></a>  
 
 <br />
 <div align="center">
@@ -66,27 +65,27 @@ This project utilizes the following technologies:
 
 <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px;">
 
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
+![MongoDB](/assets/badge/mongodb-badge.svg) 
 
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![Express.js](/assets/badge/expressjs-badge.svg)
 
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) 
+![Next JS](/assets/badge/nextjs-badge.svg) 
 
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
+![NodeJS](/assets/badge/nodejs-badge.svg) 
 
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) 
+![JWT](/assets/badge/jwt-badge.svg) 
 
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) 
+![TailwindCSS](/assets/badge/tailwindcss-badge.svg) 
 
-![Cloudinary](https://img.shields.io/badge/cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white)
+![Cloudinary](/assets/badge/cloudinary-badge.svg)
 
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
+![GitHub](/assets/badge/github-badge.svg) 
 
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+![Vercel](/assets/badge/vercel-badge.svg)
 
 </div>
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#college-website-academy-of-technology">back to top</a>)</p>
 
 ## 🎉 Features
 
@@ -103,7 +102,7 @@ The website includes the following features:
 9. **Highlights Section**: Showcases important achievements and news.
 10. **Departments Section**: Information about various departments.
 11. **FAQ Section**: Frequently asked questions and their answers.
-12. **Syllabus Option**: Provides syllabi for all departments.
+12. **Syllabus Option**: Provides syllabus for all departments.
 13. **Contact Option**: Contact form and details for reaching out to the college.
 
 ## **🔰 Important Feature :** 
@@ -123,7 +122,7 @@ This two-step authentication process enhances security and control over admin ac
 
 
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#college-website-academy-of-technology">back to top</a>)</p>
 
 ## ✨ Screenshots
 
@@ -146,7 +145,7 @@ This two-step authentication process enhances security and control over admin ac
 
 [![FAQ Section](./assets/FAQSection.png)]()
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#college-website-academy-of-technology">back to top</a>)</p>
 
 ### 📱 Mobile View :
 
@@ -164,7 +163,7 @@ This two-step authentication process enhances security and control over admin ac
 
 [![Admin Dashboard Page](./assets/AdminDashboardMobile.png)]()
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#college-website-academy-of-technology">back to top</a>)</p>
 
 ## ✨ Installation
 
@@ -214,12 +213,12 @@ To set up the project locally, follow these steps:
 
 To use the website, navigate to `http://localhost:3000` in your browser. Admin users can log in to access the admin dashboard and manage content.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#college-website-academy-of-technology">back to top</a>)</p>
 
 ---
 
 
-## ✨ Developers
+## ✨ Developers :
 
 <div>
   <h1 align="center">
@@ -267,6 +266,6 @@ Meet the awesome people who have contributed to this project:
 </table>
 
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#college-website-academy-of-technology">back to top</a>)</p>
 
 ## Thank You ...
