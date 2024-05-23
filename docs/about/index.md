@@ -230,6 +230,11 @@
 
 ![Graph](https://github-readme-activity-graph.vercel.app/graph?username=Soumojitshome2023&theme=react-dark)
 
+
+## ✨ Resume :
+
+<iframe src="https://drive.google.com/file/d/11Q2jRHf40tcqbG9fF_H4CdAWA4G1ikXL/preview" width="100%" height="500px"></iframe>
+
 ![wave-animation-bottom](/assets/wave-animation-bottom.svg)
 
 <br>
