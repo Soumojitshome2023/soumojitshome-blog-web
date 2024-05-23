@@ -1,4 +1,3 @@
-# About
 
 ![banner](/assets/LinkedinBanner.jpg)
 
@@ -18,7 +17,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=soumojitshome2023&label=Profile%20views&color=0e75b6&style=flat" alt="soumojitshome2023" /> </p>
 
 
-<h3 align="left">Languages and Tools:</h3>
+## ✨ Languages and Tools:
 
 <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px;">
     <img src="/assets/c-original.svg" alt="C" style="width:40px; margin-right: 10px;">
@@ -45,7 +44,7 @@
 
 &nbsp;
 
-# **✨ About Me:**  
+## **✨ About Me:**  
   
 
 - 🔭 Portfolio [https://soumojitshome.vercel.app](https://soumojitshome.vercel.app/) 😄  
@@ -76,7 +75,7 @@
 
 <img src="/assets/LoadingLine.gif">
 
-# **✨ Social Media :**  
+## **✨ Social Media :**  
   
 
 - LinkedIn: [soumojit-shome](https://www.linkedin.com/in/soumojit-shome)  
@@ -118,7 +117,7 @@
 <img src="/assets/LoadingLine.gif">
 
 
-# 💻 Tech Stack:
+## 💻 Tech Stack:
 
 <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 3px;">
 
@@ -180,7 +179,7 @@
 
 <br/>  
 
-# ✨ Connect with me :
+## ✨ Connect with me :
 
 
 <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px;">
@@ -206,7 +205,7 @@
 
 <br/>  
 
-# ✨ Github Stats :  
+## ✨ Github Stats :  
 
 
 <br/>  

@@ -18,7 +18,7 @@ hero:
     src: /mypic2.jpg
     alt: Soumojit Shome
   actions:
-    - theme: brand
+    - theme: alt
       text: Projects
       link: /projects/
     - theme: alt

@@ -22,10 +22,7 @@
 </div>
 
 ## 💻 Demo
-<video width="600" controls>
-  <source src="./assets/DemoVideo.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/_-p8Iu8Mq7I?si=w5PXyQKkkesawc0F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 <!-- TABLE OF CONTENTS -->
 <details>
@@ -85,7 +82,7 @@ This project utilizes the following technologies:
 
 </div>
 
-<p align="right">(<a href="#college-website-academy-of-technology">back to top</a>)</p>
+<p align="right">(<a href="#college-website">back to top</a>)</p>
 
 ## 🎉 Features
 
@@ -122,7 +119,7 @@ This two-step authentication process enhances security and control over admin ac
 
 
 
-<p align="right">(<a href="#college-website-academy-of-technology">back to top</a>)</p>
+<p align="right">(<a href="#college-website">back to top</a>)</p>
 
 ## ✨ Screenshots
 
@@ -145,7 +142,7 @@ This two-step authentication process enhances security and control over admin ac
 
 [![FAQ Section](./assets/FAQSection.png)]()
 
-<p align="right">(<a href="#college-website-academy-of-technology">back to top</a>)</p>
+<p align="right">(<a href="#college-website">back to top</a>)</p>
 
 ### 📱 Mobile View :
 
@@ -163,7 +160,7 @@ This two-step authentication process enhances security and control over admin ac
 
 [![Admin Dashboard Page](./assets/AdminDashboardMobile.png)]()
 
-<p align="right">(<a href="#college-website-academy-of-technology">back to top</a>)</p>
+<p align="right">(<a href="#college-website">back to top</a>)</p>
 
 ## ✨ Installation
 
@@ -213,7 +210,7 @@ To set up the project locally, follow these steps:
 
 To use the website, navigate to `http://localhost:3000` in your browser. Admin users can log in to access the admin dashboard and manage content.
 
-<p align="right">(<a href="#college-website-academy-of-technology">back to top</a>)</p>
+<p align="right">(<a href="#college-website">back to top</a>)</p>
 
 ---
 
@@ -266,6 +263,6 @@ Meet the awesome people who have contributed to this project:
 </table>
 
 
-<p align="right">(<a href="#college-website-academy-of-technology">back to top</a>)</p>
+<p align="right">(<a href="#college-website">back to top</a>)</p>
 
 ## Thank You ...
