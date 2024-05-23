@@ -47,7 +47,7 @@
   
 [![YouTube](/assets/badge/youtube-badge.svg)](https://youtube.com/@soumojitshome)
 
-[![Portfolio](/assets/badge/Portfolio-badge.svg)](https://www.soumojitshome.me/)
+[![Portfolio](/assets/badge/Portfolio-badge.svg)](https://soumojitshome.vercel.app/)
 
 ![Phone](/assets/badge/MyPhone-badge.svg)
 

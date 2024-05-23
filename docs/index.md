@@ -32,12 +32,12 @@ hero:
       link: /posts/
     - theme: alt
       text: Portfolio
-      link: https://www.soumojitshome.me/
+      link: https://soumojitshome.vercel.app/
 
 # features:
 #   - title: Feature A
 #     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-#     link: https://www.soumojitshome.me/
+#     link: https://soumojitshome.vercel.app/
 #   - title: Feature B
 #     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
 #   - title: Feature C
@@ -56,7 +56,7 @@ hero:
   
 [![YouTube](/assets/badge/youtube-badge.svg)](https://youtube.com/@soumojitshome)
 
-[![Portfolio](/assets/badge/Portfolio-badge.svg)](https://www.soumojitshome.me/)
+[![Portfolio](/assets/badge/Portfolio-badge.svg)](https://soumojitshome.vercel.app/)
 
 ![Phone](/assets/badge/MyPhone-badge.svg)
 
