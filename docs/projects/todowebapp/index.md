@@ -19,14 +19,14 @@ LinkedIn Post Link : [Click to Visit LinkedIn Post](https://www.linkedin.com/pos
 
 
 #### 🚀 SignUp Page:
-[![Sign Up Page](./assets/signup.png)]()
+![Sign Up Page](./assets/signup.png)
 
 
 #### 🚀 Log In:
-[![Log In](./assets/login.png)]()
+![Log In](./assets/login.png)
 
 #### 🚀 ToDos Page:
-[![ToDos Page](./assets/todos.png)]()
+![ToDos Page](./assets/todos.png)
 
 
 ---

@@ -50,28 +50,28 @@ LinkedIn Post Link : [Click to Visit LinkedIn Post](https://www.linkedin.com/pos
 
 
 #### 🚀 Home Page:
-[![Home Page](./assets/home.png)]()
+![Home Page](./assets/home.png)
 
 #### 🚀 Sign Up Page:
-[![Sign Up Page](./assets/signup.png)]()
+![Sign Up Page](./assets/signup.png)
 
 #### 🚀 LogIn Page:
-[![LogIn Page](./assets/login.png)]()
+![LogIn Page](./assets/login.png)
 
 #### 🚀 My Events Page:
-[![My Events Page](./assets/myevents.png)]()
+![My Events Page](./assets/myevents.png)
 
 #### 🚀 Event Page:
-[![Event Page](./assets/event.png)]()
+![Event Page](./assets/event.png)
 
 #### 🚀 Admin Page:
-[![Admin Page](./assets/adminpanel.png)]()
+![Admin Page](./assets/adminpanel.png)
 
 #### 🚀 Uploaded Certificate:
-[![Uploaded Certificate](./assets/uploadedcertificate.png)]()
+![Uploaded Certificate](./assets/uploadedcertificate.png)
 
 #### 🚀 Certificate Page:
-[![Certificate Page](./assets/certificatepage.png)]()
+![Certificate Page](./assets/certificatepage.png)
 
 ---
 

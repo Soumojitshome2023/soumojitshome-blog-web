@@ -103,23 +103,23 @@ Ready to experience the perfect synergy of Next.js, Firebase, and Tailwind CSS? 
 
 #### 🚀 Home Page:
 
-[![Home Page](./assets/home.png)]()
+![Home Page](./assets/home.png)
 
 #### 🚀 Contact Page:
 
-[![Contact Page](./assets/contactpage.png)]()
+![Contact Page](./assets/contactpage.png)
 
 #### 🚀 LogIn Page:
 
-[![logIn Page](./assets/loginpage.png)]()
+![logIn Page](./assets/loginpage.png)
 
 #### 🚀 SignIn Page:
 
-[![SignIn Page](./assets/signinpage.png)]()
+![SignIn Page](./assets/signinpage.png)
 
 #### 🚀 Admin Page:
 
-[![Admin Panel](./assets/adminpanel.png)]()
+![Admin Panel](./assets/adminpanel.png)
 
 
 

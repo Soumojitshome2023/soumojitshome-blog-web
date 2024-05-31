@@ -127,20 +127,20 @@ This two-step authentication process enhances security and control over admin ac
 
 ####  ✨  Home Page :
 
-[![Home Page](./assets/HomePage.png)]()
+![Home Page](./assets/HomePage.png)
 
 #### ✨  Departments Page :
 
-[![Departments Page](./assets/DepartmentsPage.png)]()
-[![Departments Page](./assets/Department2.png)]()
+![Departments Page](./assets/DepartmentsPage.png)
+![Departments Page](./assets/Department2.png)
 
 #### ✨  Admin Dashboard Page :
 
-[![Admin Dashboard Page](./assets/AdminDashboard.png)]()
+![Admin Dashboard Page](./assets/AdminDashboard.png)
 
 #### ✨  FAQ Section :
 
-[![FAQ Section](./assets/FAQSection.png)]()
+![FAQ Section](./assets/FAQSection.png)
 
 <p align="right">(<a href="#college-website">back to top</a>)</p>
 
@@ -148,13 +148,13 @@ This two-step authentication process enhances security and control over admin ac
 
 #### ✨  Home Page :
 
-[![Home Page](./assets/HomeMobile.png)]()
-[![Home Page](./assets/HomeMobile2.png)]()
+![Home Page](./assets/HomeMobile.png)
+![Home Page](./assets/HomeMobile2.png)
 
 #### ✨  Departments Page :
 
-[![Departments Page](./assets/DepartmentMobile.png)]()
-[![Departments Page](./assets/DepartmentMobile2.png)]()
+![Departments Page](./assets/DepartmentMobile.png)
+![Departments Page](./assets/DepartmentMobile2.png)
 
 ### ✨  Admin Dashboard Page :
 
