@@ -23,6 +23,19 @@ export default defineConfig({
 
     sidebar: [
       {
+        text: 'Links',
+        collapsed: false,
+        items: [
+          { text: 'About', link: '/about/' },
+          { text: 'Blogs', link: '/blogs/' },
+          { text: 'Projects', link: '/projects/' },
+          { text: 'Certificates', link: '/certificates/' },
+          { text: 'Resume', link: '/about/#✨-resume' },
+          { text: 'Contact with me', link: '/about/#✨-connect-with-me' },
+          { text: 'Other Links', link: '/about/#✨-social-media' },
+        ]
+      },
+      {
         text: 'Blogs',
         collapsed: false,
         items: [

@@ -45,7 +45,7 @@
 &nbsp;
 
 ## **✨ About Me:**  
-  
+  I'm a 2nd-year student at the Academy of Technology, currently pursuing a degree in Electronics and Communication Engineering (ECE). My passion for technology extends beyond my coursework, as I have a keen interest in web development. I love exploring the world of coding and creating dynamic, user-friendly websites.
 
 - 🔭 Portfolio [https://soumojitshome.vercel.app](https://soumojitshome.vercel.app/) 😄  
 

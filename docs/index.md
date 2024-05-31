@@ -11,9 +11,9 @@ head:
       content: /mypic2.jpg
       
 hero:
-  name: "Soumojit Shome"
-  text: "Embark on a Journey with Soumojit Shome's Insights"
-  tagline: 🌟 Welcome to a unique perspective on life, technology, and beyond – join Soumojit Shome as he unveils a treasure trove of thoughts, experiences, and knowledge on a myriad of topics. This blog is not just a collection of words; it's an invitation to explore the world through Soumojit's eyes.
+  name: Soumojit Shome
+  text: 🌟 Exploring Ideas, Sharing Stories
+  tagline: I'm a 2nd-year student at the Academy of Technology, currently pursuing a degree in Electronics and Communication Engineering (ECE). My passion for technology extends beyond my coursework, as I have a keen interest in web development. I love exploring the world of coding and creating dynamic, user-friendly websites.
   image:
     src: /mypic2.jpg
     alt: Soumojit Shome
@@ -22,11 +22,17 @@ hero:
       text: Projects
       link: /projects/
     - theme: alt
+      text: Certificates
+      link: /certificates/
+    - theme: alt
       text: About
       link: /about/
     - theme: alt
       text: Blogs
       link: /blogs/
+    - theme: alt
+      text: Contact
+      link: /about/#✨-social-media
     - theme: alt
       text: Posts
       link: /posts/

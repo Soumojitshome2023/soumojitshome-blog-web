@@ -1,5 +1,7 @@
 # Blogs
 
+Welcome to my blog! I'm Soumojit Shome, a second-year student at the Academy of Technology. I study Electronics and Communication Engineering (ECE) and love creating websites in my free time.
+
 ## Random
 * **Casual :** 
     * [Random Day](/blogs/random/RandomDay/)
@@ -10,7 +12,7 @@
 
 
 ## 1st Semester
-* [First Day](/blogs/1stsem/FirstDayAot/)
+<!-- * [First Day](/blogs/1stsem/FirstDayAot/) -->
 * [Cognizant Technology Solutions Seminars](/blogs/1stsem/CognizantTechnologySolutionsSeminar/)
 
 ## 2nd Semester
