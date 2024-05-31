@@ -54,6 +54,6 @@ Welcome to my blog! I'm Soumojit Shome, a second-year student at the Academy of 
   
 </div> 
 
-![wave-animation-bottom](/assets/wave-animation-bottom.svg)
+![wave-animation-bottom](/assets/techstacksvg/wave-animation-bottom.svg)
 
 <br>

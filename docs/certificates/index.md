@@ -113,4 +113,4 @@
   
 </div> 
 
-![wave-animation-bottom](/assets/wave-animation-bottom.svg)
+![wave-animation-bottom](/assets/techstacksvg/wave-animation-bottom.svg)

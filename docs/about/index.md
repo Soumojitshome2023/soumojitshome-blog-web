@@ -20,25 +20,25 @@
 ## ✨ Languages and Tools:
 
 <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px;">
-    <img src="/assets/c-original.svg" alt="C" style="width:40px; margin-right: 10px;">
-    <img src="/assets/cplusplus-original.svg" alt="C++" style="width:40px; margin-right: 10px;">
-    <img src="/assets/python-original.svg" alt="Python" style="width:40px; margin-right: 10px;">
-    <img src="/assets/java-original.svg" alt="Java" style="width:40px; margin-right: 10px;">
-    <img src="/assets/javascript-original.svg" alt="JavaScript" style="width:40px; margin-right: 10px;">
-    <img src="/assets/react-original.svg" alt="ReactJS" style="width:40px; margin-right: 10px;">
-    <img src="/assets/nextjs-original.svg" alt="Next.js" style="width:40px; margin-right: 10px;">
-    <img src="/assets/firebase-plain.svg" alt="Firebase" style="width:40px; margin-right: 10px;">
-    <img src="/assets/mongodb-original.svg" alt="MongoDB" style="width:40px; margin-right: 10px;">
-    <img src="/assets/tailwindcss-original.svg" alt="Tailwind CSS" style="width:40px; margin-right: 10px;">
-    <img src="/assets/bootstrap-plain.svg" alt="Bootstrap" style="width:40px; margin-right: 10px;">
-    <img src="/assets/github-original.svg" alt="GitHub" style="width:40px; margin-right: 10px;">
-    <img src="/assets/html5-original.svg" alt="HTML" style="width:40px; margin-right: 10px;">
-    <img src="/assets/css3-original.svg" alt="CSS" style="width:40px; margin-right: 10px;">
-    <img src="/assets/nodejs-original.svg" alt="Node.js" width="40">
-    <img src="/assets/vercel-original.svg" alt="Vercel" style="width:40px; margin-right: 10px;">
-    <img src="/assets/figma-original.svg" alt="Figma" style="width:40px; margin-right: 10px;">
-    <img src="/assets/postman-original.svg" alt="Figma" style="width:40px; margin-right: 10px;">
-    <img src="/assets/socketio-original.svg" alt="Figma" style="width:40px; margin-right: 10px;">
+    <img src="/assets/techstacksvg/c-original.svg" alt="C" style="width:40px; margin-right: 10px;">
+    <img src="/assets/techstacksvg/cplusplus-original.svg" alt="C++" style="width:40px; margin-right: 10px;">
+    <img src="/assets/techstacksvg/python-original.svg" alt="Python" style="width:40px; margin-right: 10px;">
+    <img src="/assets/techstacksvg/java-original.svg" alt="Java" style="width:40px; margin-right: 10px;">
+    <img src="/assets/techstacksvg/javascript-original.svg" alt="JavaScript" style="width:40px; margin-right: 10px;">
+    <img src="/assets/techstacksvg/react-original.svg" alt="ReactJS" style="width:40px; margin-right: 10px;">
+    <img src="/assets/techstacksvg/nextjs-original.svg" alt="Next.js" style="width:40px; margin-right: 10px;">
+    <img src="/assets/techstacksvg/firebase-plain.svg" alt="Firebase" style="width:40px; margin-right: 10px;">
+    <img src="/assets/techstacksvg/mongodb-original.svg" alt="MongoDB" style="width:40px; margin-right: 10px;">
+    <img src="/assets/techstacksvg/tailwindcss-original.svg" alt="Tailwind CSS" style="width:40px; margin-right: 10px;">
+    <img src="/assets/techstacksvg/bootstrap-plain.svg" alt="Bootstrap" style="width:40px; margin-right: 10px;">
+    <img src="/assets/techstacksvg/github-original.svg" alt="GitHub" style="width:40px; margin-right: 10px;">
+    <img src="/assets/techstacksvg/html5-original.svg" alt="HTML" style="width:40px; margin-right: 10px;">
+    <img src="/assets/techstacksvg/css3-original.svg" alt="CSS" style="width:40px; margin-right: 10px;">
+    <img src="/assets/techstacksvg/nodejs-original.svg" alt="Node.js" width="40">
+    <img src="/assets/techstacksvg/vercel-original.svg" alt="Vercel" style="width:40px; margin-right: 10px;">
+    <img src="/assets/techstacksvg/figma-original.svg" alt="Figma" style="width:40px; margin-right: 10px;">
+    <img src="/assets/techstacksvg/postman-original.svg" alt="Figma" style="width:40px; margin-right: 10px;">
+    <img src="/assets/techstacksvg/socketio-original.svg" alt="Figma" style="width:40px; margin-right: 10px;">
 </div>
 
 
@@ -235,7 +235,7 @@
 
 <iframe src="https://drive.google.com/file/d/11Q2jRHf40tcqbG9fF_H4CdAWA4G1ikXL/preview" width="100%" height="500px"></iframe>
 
-![wave-animation-bottom](/assets/wave-animation-bottom.svg)
+![wave-animation-bottom](/assets/techstacksvg/wave-animation-bottom.svg)
 
 <br>
 
