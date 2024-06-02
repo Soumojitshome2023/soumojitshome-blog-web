@@ -17,9 +17,14 @@
     ·
     <a target="_blank" href="https://github.com/Soumojitshome2023/college-website-nextjs">Repo Link</a>
     ·
+    <a target="_blank" href="https://www.linkedin.com/posts/soumojit-shome_this-project-is-developed-as-part-of-a-college-level-activity-7202889108573069313-Ug83?utm_source=share&utm_medium=member_desktop">LinkedIn Post</a>
+    ·
     <a href="mailto:soumojitshome2021@gmail.com">Mail Us</a>
   </p>
 </div>
+
+
+
 
 ## 💻 Demo
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/_-p8Iu8Mq7I?si=w5PXyQKkkesawc0F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
