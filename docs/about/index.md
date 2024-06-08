@@ -84,11 +84,15 @@
 
 - YouTube: [@soumojitshome](https://youtube.com/@soumojitshome)  
   
+- Instagram: [soumojit_shome](https://www.instagram.com/soumojit_shome/)  
+  
+- Twitter(X): [soumojit_shome](https://x.com/soumojit_shome)  
+  
 - Portfolio Website: [soumojitshome.vercel.app](https://soumojitshome.vercel.app)  
   
 - Other Links Page: [implinkssoumojit.vercel.app](https://implinkssoumojit.vercel.app)  
   
-- Blog Web Page: [soumojitshome-blog-web.vercel.app](https://soumojitshome-blog-web.vercel.app/)  
+- Blog Web Page: [soumojitshomeblog.vercel.app](https://soumojitshomeblog.vercel.app/)  
 
 - GeeksforGeeks : [soumojits8qiy](https://auth.geeksforgeeks.org/user/soumojits8qiy)  
   
@@ -101,12 +105,16 @@
 - Holopin : [@soumojitshome2023](https://www.holopin.io/@soumojitshome2023#)  
 
 - Google Cloud : [Soumojit Shome](https://www.cloudskillsboost.google/public_profiles/987a5721-fedc-48e5-a9eb-f19e813782bd)
+  
+- Google Developer Profile : [soumojitshome2023](https://g.dev/soumojitshome2023/)
 
 - Peerlist : [soumojit_shome](https://peerlist.io/soumojit_shome)
 
-- Certificates : [Certificates](https://www.linkedin.com/in/soumojit-shome/details/certifications/)
+- Certificates : [Certificates](/certificates/)
+  
+- Projects : [Projects](/projects/)
 
-- Resume : [Resume](https://drive.google.com/file/d/11Q2jRHf40tcqbG9fF_H4CdAWA4G1ikXL/view?usp=drive_link)
+- Resume : [Resume](#✨-resume)
 
 - Mail  : soumojitshome2021@gmail.com / soumojit.shome@gmail.com
 
@@ -233,7 +241,7 @@
 
 ## ✨ Resume :
 
-<iframe src="https://drive.google.com/file/d/11Q2jRHf40tcqbG9fF_H4CdAWA4G1ikXL/preview" width="100%" height="500px"></iframe>
+<iframe src="/assets/My_Resume.pdf" width="100%" height="500px"></iframe>
 
 ![wave-animation-bottom](/assets/techstacksvg/wave-animation-bottom.svg)
 
