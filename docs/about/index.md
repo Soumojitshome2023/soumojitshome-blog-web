@@ -78,7 +78,7 @@
 ## **✨ Social Media :**  
   
 
-- WhatsApp: [Click to send whatsapp message](https://api.whatsapp.com/send/?phone=9062300500&text=Heyy:))  
+- WhatsApp: [Click to send whatsapp message](https://api.whatsapp.com/send/?phone=9062300500&text=Heyy)  
   
 - LinkedIn: [soumojit-shome](https://www.linkedin.com/in/soumojit-shome)  
   
@@ -122,7 +122,7 @@
 
 - Mail  : soumojitshome2021@gmail.com / soumojit.shome@gmail.com
 
-- Phone : [+91 9062300500](https://api.whatsapp.com/send/?phone=9062300500&text=Heyy:))
+- Phone : [+91 9062300500](https://api.whatsapp.com/send/?phone=9062300500&text=Heyy)
 
 <br/>    
 
