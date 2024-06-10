@@ -86,6 +86,8 @@
   
 - Instagram: [soumojit_shome](https://www.instagram.com/soumojit_shome/)  
   
+- Threads: [@soumojit_shome](https://www.threads.net/@soumojit_shome)  
+  
 - Twitter(X): [soumojit_shome](https://x.com/soumojit_shome)  
   
 - Portfolio Website: [soumojitshome.vercel.app](https://soumojitshome.vercel.app)  
