@@ -109,8 +109,12 @@ export default defineConfig({
         text: 'Posts',
         collapsed: false,
         items: [
+          { text: 'Started My Program at Academy of Technology 19 Oct 2022', link: '/posts/started-my-program-at-AcademyofTechnology/' },
+          { text: 'GeeksforGeeks T-shirt 10 Jun 2023', link: '/posts/GeeksforGeeks-T-shirt/' },
+          { text: 'GeeksforGeeks Bag 5 Oct 2023', link: '/posts/GeeksforGeeks-bag/' },
           { text: 'College Campus Night View', link: '/posts/NighttimeCollegeCampus/' },
           { text: 'College Campus View', link: '/posts/CollegeCampusDay/' },
+          { text: 'College Pic View More...', link: '/blogs/random/CollegePics/' },
         ]
       }
     ],
