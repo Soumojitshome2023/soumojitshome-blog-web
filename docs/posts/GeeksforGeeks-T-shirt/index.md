@@ -10,8 +10,8 @@ Today I received the GFG T-shirt after solving POTD consistently. Special thanks
 
 <div style="display: flex; flex-direction: row; justify-content: center; gap: 10px; flex-wrap: wrap;">
 
-<img src="./assets/gfg-tshirt (1).jpeg" style="height:400px;" alt="Img"/>
-<img src="./assets/gfg-tshirt (2).jpeg" style="height:400px;" alt="Img"/>
-<img src="./assets/gfg-tshirt (3).jpeg" style="height:400px;" alt="Img"/>
+<img src="./assets/gfg-tshirt (1).jpeg" style="max-height:400px;" alt="Img"/>
+<img src="./assets/gfg-tshirt (2).jpeg" style="max-height:400px;" alt="Img"/>
+<img src="./assets/gfg-tshirt (3).jpeg" style="max-height:400px;" alt="Img"/>
 
 </div> 

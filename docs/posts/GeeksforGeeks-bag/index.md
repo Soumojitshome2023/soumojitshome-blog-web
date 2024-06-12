@@ -10,9 +10,9 @@ Thanks to GeeksforGeeks and Sandeep Jain sir for providing this wonderful platfo
 <div style="display: flex; flex-direction: row; justify-content: center; gap: 10px; flex-wrap: wrap;">
 
 <!-- ![Pic](./assets/GeeksforGeeks-bag1.jpeg) -->
-<img src="./assets/GeeksforGeeks-bag1.jpeg" style="height:400px;" alt="Img"/>
-<img src="./assets/GeeksforGeeks-bag2.jpeg" style="height:400px;" alt="Img"/>
-<img src="./assets/GeeksforGeeks-bag3.jpeg" style="height:400px;" alt="Img"/>
-<img src="./assets/GeeksforGeeks-bag4.jpeg" style="height:400px;" alt="Img"/>
+<img src="./assets/GeeksforGeeks-bag1.jpeg" style="max-height:400px;" alt="Img"/>
+<img src="./assets/GeeksforGeeks-bag2.jpeg" style="max-height:400px;" alt="Img"/>
+<img src="./assets/GeeksforGeeks-bag3.jpeg" style="max-height:400px;" alt="Img"/>
+<img src="./assets/GeeksforGeeks-bag4.jpeg" style="max-height:400px;" alt="Img"/>
 
 </div> 
