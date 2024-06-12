@@ -1,8 +1,12 @@
 # Posts
 
+* [Started My Program at Academy of Technology 19 Oct 2022](/posts/started-my-program-at-AcademyofTechnology/)
+* [GeeksforGeeks T-shirt 10 Jun 2023](/posts/GeeksforGeeks-T-shirt/)
+* [GeeksforGeeks Bag 5 Oct 2023](/posts/GeeksforGeeks-bag/)
 * [College Campus Night View](/posts/NighttimeCollegeCampus/)
 * [College Campus View](/posts/CollegeCampusDay/)
-* [View More...](/blogs/random/CollegePics/)
+* [Blogs...](/blogs/)
+* [College Pic View More...](/blogs/random/CollegePics/)
 
 
 <br>
