@@ -48,7 +48,7 @@ Welcome to my blog! I'm Soumojit Shome, a second-year student at the Academy of 
 
 [![Portfolio](/assets/badge/Portfolio-badge.svg)](https://soumojitshome.vercel.app/)
 
-![Phone](/assets/badge/MyPhone-badge.svg)
+[![Phone](/assets/badge/MyPhone-badge.svg)](https://api.whatsapp.com/send/?phone=9062300500&text=Heyy)
 
 ![Mail](/assets/badge/MyMail-badge.svg)
   

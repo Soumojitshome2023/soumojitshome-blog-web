@@ -64,7 +64,7 @@ hero:
 
 [![Portfolio](/assets/badge/Portfolio-badge.svg)](https://soumojitshome.vercel.app/)
 
-![Phone](/assets/badge/MyPhone-badge.svg)
+[![Phone](/assets/badge/MyPhone-badge.svg)](https://api.whatsapp.com/send/?phone=9062300500&text=Heyy)
 
 ![Mail](/assets/badge/MyMail-badge.svg)
   
