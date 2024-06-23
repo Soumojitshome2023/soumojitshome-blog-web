@@ -8,14 +8,14 @@ layout: home
 head:
   - - meta
     - property: 'og:image'
-      content: /mypic2.jpg
+      content: /mypic3.jpeg
       
 hero:
   name: Soumojit Shome
   text: 🌟 Exploring Ideas, Sharing Stories
   tagline: I'm a 2nd-year student at the Academy of Technology, currently pursuing a degree in Electronics and Communication Engineering (ECE). My passion for technology extends beyond my coursework, as I have a keen interest in web development. I love exploring the world of coding and creating dynamic, user-friendly websites.
   image:
-    src: /mypic2.jpg
+    src: /mypic3.jpeg
     alt: Soumojit Shome
   actions:
     - theme: alt

@@ -4,9 +4,9 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   title: "Soumojit Shome",
   description: "SoumojitShomeBlog",
-  head: [['link', { rel: 'icon', href: '/mypic2.jpg' }]],
+  head: [['link', { rel: 'icon', href: '/mypic3.jpeg' }]],
   themeConfig: {
-    logo: '/mypic2.jpg',
+    logo: '/mypic3.jpeg',
     // https://vitepress.dev/reference/default-theme-config
     search: {
       provider: 'local'
