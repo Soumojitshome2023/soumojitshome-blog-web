@@ -34,6 +34,7 @@ Welcome to my blog! I'm Soumojit Shome, a second-year student at the Academy of 
 ## 4th Semester
 * [Didir Bia](/blogs/4thsem/didirbia/)
 * [TechFiesta](/blogs/4thsem/techfiesta/)
+* [2nd Year Done](/blogs/4thsem/2ndyeardone/)
 
 
 <br>

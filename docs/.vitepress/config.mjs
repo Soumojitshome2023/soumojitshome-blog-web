@@ -83,6 +83,7 @@ export default defineConfig({
             items: [
               { text: 'Didir Bia', link: '/blogs/4thsem/didirbia/' },
               { text: 'TechFiesta', link: '/blogs/4thsem/techfiesta/' },
+              { text: '2nd Year Done', link: '/blogs/4thsem/2ndyeardone/' },
             ]
           },
         ]
