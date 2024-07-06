@@ -4,7 +4,7 @@
 
 Hey everyone! I'm super excited to share my latest project – a cool Todo WebApp built using Next.js! 🚀✨
 
-🔥 **Version : V 6.0.0**
+🔥 **Version : V 1.0.0**
 
 🔥 **Project Link :** [Click to Visit Website](https://mytodosweb.vercel.app/) ✨
 

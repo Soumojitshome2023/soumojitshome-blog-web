@@ -1,13 +1,14 @@
-# [Link Shortener WebApp](https://snipswift.vercel.app/)
-
----
-
-Project Link : [Click to Visit Website](https://snipswift.vercel.app/) ✨
+# [Link Shortener WebApp](https://4bit.vercel.app/)
 
 
+🔥 **Version : V 1.0.0**
 
-#### 🚀 Home:
-<img src="./assets/linkshortener (1).png" alt="linkshortener Img"/><br>
+🔥 **Project Link :** [Click to Visit Website](https://4bit.vercel.app/) ✨
+
+
+
+## 🚀 Home:
+![linkshortener](./assets/linkshortener.png)
 
 
 
