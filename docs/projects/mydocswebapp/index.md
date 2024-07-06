@@ -1,14 +1,23 @@
-# [My Docs](https://soumojit-nextjs-my-docs-anywhere-webapp.vercel.app/)
+# [# My Docs](https://mydocshub.vercel.app/)
 
 ## 🚀 Exciting Announcement! 🚀
 
-I am thrilled to introduce "**[My Docs](https://soumojit-nextjs-my-docs-anywhere-webapp.vercel.app/)**" – Your Ultimate Digital Document Hub! 📂✨
+I am thrilled to introduce "**[My Docs](https://mydocshub.vercel.app/)**" – Your Ultimate Digital Document Hub! 📂✨
 
 #### 🌐 **Project Overview: "My Docs" - Your Ultimate Digital Document Hub**:
 
 " **My Docs** " is a groundbreaking project designed with one clear purpose – to revolutionize the way you manage and interact with your digital documents. In a world where information is key, **"My Docs"** strives to provide users with a seamless and secure platform for storing, organizing, and accessing their files from anywhere, at any time.
 
-### ✨ **Key Features:**
+### Version : V 1.0.0
+
+🔥 **WebSite Link :** [Click to Visit Website](https://mydocshub.vercel.app/)
+
+🔥 **Video Link :** [Click to Visit YouTube Video](https://youtu.be/4Ah9zJJ2354?si=rInuyPzT0BJ6FQN3)
+
+🔥 **LinkedIn Post Link :** [Click to Visit LinkedIn Post](https://www.linkedin.com/posts/soumojit-shome_nextjs-firebase-tailwindcss-activity-7138542690161381376-IoMc?utm_source=share&utm_medium=member_desktop)
+
+
+## ✨ **Key Features:**
 
 - 🔒 **Secure Email Password Authentication:** Your documents, your privacy! We prioritize the security of your valuable files with a robust email and password authentication system.
 - 🔄 **Forget Password Option:** No need to worry about forgotten passwords! Easily reset your credentials to regain access and peace of mind.
@@ -22,13 +31,13 @@ I am thrilled to introduce "**[My Docs](https://soumojit-nextjs-my-docs-anywhere
 - 🌐 **Access Anywhere:** Your documents, wherever you are! Enjoy the freedom to access your files from any location with an internet connection.
 - 🌈 **User-Friendly Interface:** Navigating "My Docs" is a breeze! Our user-friendly interface ensures a smooth and enjoyable experience.
 
-### 🚀✨ **Tech Stack Highlights: 🚀**
+## 🚀✨ **Tech Stack Highlights: 🚀**
 
 - 🚀 **Next.js:** Elevating the user experience with lightning-fast performance and seamless navigation. The future of web development is here!
 - 🔥 **Firebase:** Powering the backend with a robust and scalable infrastructure. Say hello to secure authentication, real-time updates, and hassle-free data storage.
 - 🎨 **Tailwind CSS:** Bringing style to substance! Crafting a stunning and responsive user interface that's as sleek as it is user-friendly.
 
-### 🚀 **Learning Journey: "My Docs" Development** 🚀
+## 🚀 **Learning Journey: "My Docs" Development** 🚀
 
 Embarking on an exciting learning journey! Here are the key topics covered in the development of "**My Docs**" – Your Ultimate Digital Document Hub. 🌐📄
 
@@ -75,7 +84,7 @@ Embarking on an exciting learning journey! Here are the key topics covered in th
 
     - 📱 Ensure a consistent and visually pleasing user experience across various devices with responsive design principles.
 
-### 🚀 **Future Plans: Elevating "My Docs" Experience** 🚀
+## 🚀 **Future Plans: Elevating "My Docs" Experience** 🚀
 
 The journey is evolving, and we've got some exciting plans to further elevate your experience with "My Docs" – Your Ultimate Digital Document Hub. 🌐🚀
 
@@ -93,38 +102,36 @@ The journey is evolving, and we've got some exciting plans to further elevate yo
    * 🤖 Implement smart user authentication mechanisms, providing an added layer of identity verification for enhanced security.
 
 
-WebSite Link : [Click to Visit Website](https://soumojit-nextjs-my-docs-anywhere-webapp.vercel.app/)
-
-Video Link : [Click to Visit YouTube Video](https://youtu.be/4Ah9zJJ2354?si=rInuyPzT0BJ6FQN3)
-
-LinkedIn Post Link : [Click to Visit LinkedIn Post](https://www.linkedin.com/posts/soumojit-shome_nextjs-firebase-tailwindcss-activity-7138542690161381376-IoMc?utm_source=share&utm_medium=member_desktop)
-
-Ready to experience the perfect synergy of Next.js, Firebase, and Tailwind CSS? Explore "My Docs" and witness innovation in action! 🚀💻✨ [Explore My Docs](https://soumojit-nextjs-my-docs-anywhere-webapp.vercel.app/) #NextJS #Firebase #TailwindCSS #WebDevelopment #InnovationInTech #MyDocsTechStack
-
-#### 🚀 Home Page:
+## 🚀 Home Page:
 
 ![Home Page](./assets/home.png)
 
-#### 🚀 Contact Page:
+## 🚀 Contact Page:
 
 ![Contact Page](./assets/contactpage.png)
 
-#### 🚀 LogIn Page:
+## 🚀 LogIn Page:
 
 ![logIn Page](./assets/loginpage.png)
 
-#### 🚀 SignIn Page:
+## 🚀 SignIn Page:
 
 ![SignIn Page](./assets/signinpage.png)
 
-#### 🚀 Admin Page:
+## 🚀 Admin Page:
 
 ![Admin Panel](./assets/adminpanel.png)
 
 
 
+Ready to experience the perfect synergy of Next.js, Firebase, and Tailwind CSS? Explore "My Docs" and witness innovation in action! 🚀💻✨ [Explore My Docs](https://mydocshub.vercel.app/) #NextJS #Firebase #TailwindCSS #WebDevelopment #InnovationInTech #MyDocsTechStack
+
+
 ---
 
-#### 🚀 Video:
+## 🚀 Video:
 
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/4Ah9zJJ2354?si=rFxqIzlyNzAmX3gS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+
+## Thank You ... 🙂🤗
