@@ -1,7 +1,7 @@
 # [Blog WebApp](https://andromedablog.vercel.app/)
 
 
-### 🚀 Excited to announce the launch of my new blog website (Andromeda Blog)! 🎉
+## 🚀 Excited to announce the launch of my new blog website (Andromeda Blog) ! 🎉
 
 Built with Next.js, Tailwind CSS, and MongoDB, this platform offers a seamless blogging experience with a variety of features.
 
@@ -106,45 +106,45 @@ This project utilizes the following technologies:
 
 ## ✨ Screenshots
 
-### ✨ First Load Page: 
+## ✨ First Load Page: 
 ![Feed](./assets/newVersion/blog-webapp0.png)
 
-### ✨ Feed :
+## ✨ Feed :
 ![Feed](./assets/newVersion/blog-webapp1.png)
 
-### ✨ Loading Skeleton :
+## ✨ Loading Skeleton :
 ![Loading Skeleton](./assets/newVersion/blog-webapp2.png)
 ![User Blog Section](./assets/newVersion/blog-webapp10.png)
 
-### ✨ User Profile :
+## ✨ User Profile :
 ![User Profile](./assets/newVersion/blog-webapp3.png)
 ![User Profile](./assets/newVersion/blog-webapp4.png)
 ![User Profile](./assets/newVersion/blog-webapp5.png)
 
 
-### ✨ Edit User Profile :
+## ✨ Edit User Profile :
 ![Edit User Profile](./assets/newVersion/blog-webapp6.png)
 ![Edit User Profile](./assets/newVersion/blog-webapp7.png)
 ![Edit User Profile](./assets/newVersion/blog-webapp8.png)
 
 
-### ✨ User Blog Section :
+## ✨ User Blog Section :
 ![User Blog Section](./assets/newVersion/blog-webapp9.png)
 
-### ✨ Create Blog Section :
+## ✨ Create Blog Section :
 ![Create Blog Section](./assets/newVersion/blog-webapp11.png)
 ![Create Blog Section](./assets/newVersion/blog-webapp12.png)
 
-### ✨ Users Section :
+## ✨ Users Section :
 ![Users Section](./assets/newVersion/blog-webapp13.png)
 
-### ✨ Blog Page :
+## ✨ Blog Page :
 ![Blog Section](./assets/newVersion/blog-webapp15.png)
 
-### ✨ Blog Reaction Section :
+## ✨ Blog Reaction Section :
 ![Blog Reaction Section](./assets/newVersion/blog-webapp16.png)
 
-### ✨ Blog Comment Section :
+## ✨ Blog Comment Section :
 ![Blog Comment Section](./assets/newVersion/blog-webapp17.png)
 
 
@@ -156,4 +156,4 @@ WebSite Link : [Click to Visit Website](https://andromedablog.vercel.app/)
 #NextJS #TailwindCSS #MongoDB #WebDevelopment #Blogging #Tech #NewProject
 
 
-## Thank You ...
+## **Thank You ...** 🤗🙂

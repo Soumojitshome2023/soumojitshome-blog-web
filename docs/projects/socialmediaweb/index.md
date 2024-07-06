@@ -1,4 +1,4 @@
-# Social Media WebApp
+# [Social Media WebApp](https://lensworld.vercel.app/)
 
 ## 🚀 **Exciting News!** 🚀
 
@@ -126,89 +126,89 @@ With this dynamic web app, users can seamlessly post multiple photos, express th
   * Enhancing functionality by integrating with various third-party services.
 
 
-## ✨ Screenshots
-### ✨ First Load Page: 
+## ✨ Screenshots :
+## ✨ First Load Page: 
 ![First Load Page](./assets/newVersion/lensworldpic3.png)
 
-### ✨ Feed Loading Skeleton: 
+## ✨ Feed Loading Skeleton: 
 ![Feed Loading Skeleton](./assets/newVersion/lensworldpic4.png)
 
 
-### ✨ Feed Section: 
+## ✨ Feed Section: 
 ![Feed Section](./assets/newVersion/lensworldpic5.png)
 ![Theme Settings](./assets/newVersion/lensworldpic21.png)
 
 
-### ✨ User Profile: 
+## ✨ User Profile: 
 ![User Profile](./assets/newVersion/lensworldpic6.png)
 ![User Profile](./assets/newVersion/lensworldpic7.png)
 ![User Profile](./assets/newVersion/lensworldpic8.png)
 
 
-### ✨ User Posts: 
+## ✨ User Posts: 
 ![User Posts](./assets/newVersion/lensworldpic9.png)
 
 
-### ✨ Post Comment Section: 
+## ✨ Post Comment Section: 
 ![Post Comment Section](./assets/newVersion/lensworldpic10.png)
 ![Theme Settings](./assets/newVersion/lensworldpic22.png)
 ![Post Page](./assets/newVersion/lensworldpic29.png)
 
 
-### ✨ User Tagging: 
+## ✨ User Tagging: 
 ![User Tagging](./assets/newVersion/lensworldpic11.png)
 
 
-### ✨ Comment Reply: 
+## ✨ Comment Reply: 
 ![Comment Reply](./assets/newVersion/lensworldpic12.png)
 
 
-### ✨ Post Write Section: 
+## ✨ Post Write Section: 
 ![Post Write Section](./assets/newVersion/lensworldpic13.png)
 
 
-### ✨ Users Section: 
+## ✨ Users Section: 
 ![Users Section](./assets/newVersion/lensworldpic14.png)
 
 
-### ✨ Settings Page: 
+## ✨ Settings Page: 
 ![Settings Page](./assets/newVersion/lensworldpic15.png)
 
-### ✨ Social Links Settings: 
+## ✨ Social Links Settings: 
 ![Social Links Settings](./assets/newVersion/lensworldpic16.png)
 
 
-### ✨ User Profile Image Settings: 
+## ✨ User Profile Image Settings: 
 ![User Profile Image Settings](./assets/newVersion/lensworldpic17.png)
 
 
-### ✨ User Cover Image Settings: 
+## ✨ User Cover Image Settings: 
 ![User Profile Cover Settings](./assets/newVersion/lensworldpic18.png)
 
 
-### ✨ Notifications Settings: 
+## ✨ Notifications Settings: 
 ![Notifications Settings](./assets/newVersion/lensworldpic19.png)
 
 
-### ✨ Theme Settings: 
+## ✨ Theme Settings: 
 ![Theme Settings](./assets/newVersion/lensworldpic20.png)
 
 
-### ✨ Post Liked Users: 
+## ✨ Post Liked Users: 
 ![Post Liked Users](./assets/newVersion/lensworldpic24.png)
 
 
-### ✨ Share Options: 
+## ✨ Share Options: 
 ![Share Options](./assets/newVersion/lensworldpic25.png)
 
 
-### ✨ Post Page: 
+## ✨ Post Page: 
 ![Post Page](./assets/newVersion/lensworldpic26.png)
 ![Post Page](./assets/newVersion/lensworldpic27.png)
 ![Post Page](./assets/newVersion/lensworldpic28.png)
 
 
-### ✨ OpenGraph Image: 
+## ✨ OpenGraph Image: 
 ![OpenGraph Image](./assets/newVersion/lensworldpic30.png)
 
 
@@ -224,4 +224,4 @@ Check out the web app and experience the seamless navigation. **Thank you to eve
 
 ---
 
-# Thank You ... 🙂🤗
+## **Thank You ...** 🙂🤗
