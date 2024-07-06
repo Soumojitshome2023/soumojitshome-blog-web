@@ -106,7 +106,7 @@ This project utilizes the following technologies:
 
 ## ✨ Screenshots
 
-### ✨ First Load Page: :
+### ✨ First Load Page: 
 ![Feed](./assets/newVersion/blog-webapp0.png)
 
 ### ✨ Feed :
