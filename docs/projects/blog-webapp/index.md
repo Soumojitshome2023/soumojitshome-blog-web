@@ -5,10 +5,11 @@
 
 Built with Next.js, Tailwind CSS, and MongoDB, this platform offers a seamless blogging experience with a variety of features.
 
-### 🔥 Version : V 1.0.0
+🔥 **Version : V 1.0.0**
 
-### 🔥 Project Link : [Click to Visit Website](https://andromedablog.vercel.app/) ✨
-### 🔥 LinkedIn Post Link : [Click to Visit Post](https://www.linkedin.com/posts/soumojit-shome_nextjs-tailwindcss-mongodb-activity-7215268780577292288-FfeR) ✨
+🔥 **Project Link :** [Click to Visit Website](https://andromedablog.vercel.app/) ✨
+
+🔥 **LinkedIn Post Link :** [Click to Visit Post](https://www.linkedin.com/posts/soumojit-shome_nextjs-tailwindcss-mongodb-activity-7215268780577292288-FfeR) ✨
 
 ## 🎉 Features :
 
