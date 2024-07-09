@@ -3,18 +3,19 @@
 ## 🎉 Andromeda Chat WebApp with Next.js! 🌐✨
    
 
-Andromeda Chat is a real-time chat application designed to provide seamless communication between users, With various features and various messaging functionalities.
+Andromeda Chat is a **real-time chat application** designed to provide seamless communication between users, With various features and various messaging functionalities.
 
-Project Link : [Click to Visit Website](https://andromedachat.vercel.app/) ✨
+🔥 **Version : V 1.0.0**
+
+🔥 **Project Link :** [Click to Visit Website](https://andromedachat.vercel.app/) ✨
+
+🔥 **Video Link :** [Click to Visit YouTube Video](https://youtu.be/LORGdE3g8nM?si=G9gWgWNHQ9ShcOpO)
+
+🔥 **LinkedIn Post Link :** [Click to Visit LinkedIn Post](https://www.linkedin.com/posts/soumojit-shome_andromeda-chat-webapp-with-nextjs-activity-7189207524322017281-c5i7?utm_source=share&utm_medium=member_desktop)
 
 
-Video Link : [Click to Visit YouTube Video](https://youtu.be/LORGdE3g8nM?si=G9gWgWNHQ9ShcOpO)
 
-LinkedIn Post Link : [Click to Visit LinkedIn Post](https://www.linkedin.com/posts/soumojit-shome_andromeda-chat-webapp-with-nextjs-activity-7189207524322017281-c5i7?utm_source=share&utm_medium=member_desktop)
-
-
-
-## **Features :**
+## ✨ **Features :**
 * **Sign Up:** Easily create an account with just a few simple steps.
 * **Login:** Securely log in to your account using your credentials.
 * **Forgot Password Option:** Easily recover your account if you forget your password.
@@ -35,28 +36,21 @@ LinkedIn Post Link : [Click to Visit LinkedIn Post](https://www.linkedin.com/pos
 * **Download Pic/Doc Option:** Download pictures or documents from the chat.
 
 
-## **Technology Stack :**
+## ✨ **Technology Stack :**
 Andromeda Chat is built using the following technologies:
 
 * **Next.js:** A React framework for building server-side rendered and statically generated web applications.
-* **MongoDB:** A NoSQL database for storing user data.
+* **MongoDB:** A NoSQL database for storing user data & messages.
 * **Cloudinary:** A cloud-based image and video management solution for image storage and manipulation.
 * **Tailwind CSS:** A utility-first CSS framework for styling the application.
 * **Socket.IO:** A library that enables real-time, bidirectional, and event-based communication between web clients and servers.
 * **Node.js:** A JavaScript runtime for building scalable network applications.
 
 
-Project Link : [Click to Visit Website](https://andromedachat.vercel.app/) ✨
-
-
-Video Link : [Click to Visit YouTube Video](https://youtu.be/LORGdE3g8nM?si=G9gWgWNHQ9ShcOpO)
-
-LinkedIn Post Link : [Click to Visit LinkedIn Post](https://www.linkedin.com/posts/soumojit-shome_andromeda-chat-webapp-with-nextjs-activity-7189207524322017281-c5i7?utm_source=share&utm_medium=member_desktop)
-
 
 ---
 
-## Page Pic:
+## ✨ Page Pic:
 <img src="./assets/nextjs-chatapp-pic.png" alt="nextjs-chatapp-pic Img"/><br>
 
 ---
@@ -75,4 +69,4 @@ LinkedIn Post Link : [Click to Visit LinkedIn Post](https://www.linkedin.com/pos
 
 
 #NextJS #WebDevelopment
-Check out the app [Click to Visit Website](https://andromedachat.vercel.app/)
+**Check out the app** [Click to Visit Website](https://andromedachat.vercel.app/)
