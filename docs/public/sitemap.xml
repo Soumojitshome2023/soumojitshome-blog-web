@@ -4,206 +4,212 @@
       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
       xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
             http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
 
 
 <url>
   <loc>https://soumojitshomeblog.vercel.app/</loc>
-  <lastmod>2024-06-13T12:19:51+00:00</lastmod>
+  <lastmod>2024-07-09T07:37:07+00:00</lastmod>
   <priority>1.00</priority>
 </url>
 <url>
   <loc>https://soumojitshomeblog.vercel.app/about/</loc>
-  <lastmod>2024-06-13T12:19:51+00:00</lastmod>
+  <lastmod>2024-07-09T07:37:07+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://soumojitshomeblog.vercel.app/blogs/</loc>
-  <lastmod>2024-06-13T12:19:51+00:00</lastmod>
+  <lastmod>2024-07-09T07:37:07+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://soumojitshomeblog.vercel.app/projects/</loc>
-  <lastmod>2024-06-13T12:19:51+00:00</lastmod>
+  <lastmod>2024-07-09T07:37:07+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://soumojitshomeblog.vercel.app/posts/</loc>
-  <lastmod>2024-06-13T12:19:51+00:00</lastmod>
+  <lastmod>2024-07-09T07:37:07+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://soumojitshomeblog.vercel.app/certificates/</loc>
-  <lastmod>2024-06-13T12:19:51+00:00</lastmod>
+  <lastmod>2024-07-09T07:37:07+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://soumojitshomeblog.vercel.app/blogs/random/RandomDay/</loc>
-  <lastmod>2024-06-13T12:19:51+00:00</lastmod>
+  <lastmod>2024-07-09T07:37:07+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://soumojitshomeblog.vercel.app/blogs/random/CollegePics/</loc>
-  <lastmod>2024-06-13T12:19:51+00:00</lastmod>
+  <lastmod>2024-07-09T07:37:07+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://soumojitshomeblog.vercel.app/blogs/random/markdown-parser-and-renderer-npm-package/</loc>
-  <lastmod>2024-06-13T12:19:51+00:00</lastmod>
+  <lastmod>2024-07-09T07:37:07+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://soumojitshomeblog.vercel.app/blogs/1stsem/FirstDayAot/</loc>
-  <lastmod>2024-06-13T12:19:51+00:00</lastmod>
+  <lastmod>2024-07-09T07:37:07+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://soumojitshomeblog.vercel.app/blogs/1stsem/CognizantTechnologySolutionsSeminar/</loc>
-  <lastmod>2024-06-13T12:19:51+00:00</lastmod>
+  <lastmod>2024-07-09T07:37:07+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://soumojitshomeblog.vercel.app/blogs/2ndsem/Holi/</loc>
-  <lastmod>2024-06-13T12:19:51+00:00</lastmod>
+  <lastmod>2024-07-09T07:37:07+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://soumojitshomeblog.vercel.app/blogs/2ndsem/TCSSeminar/</loc>
-  <lastmod>2024-06-13T12:19:51+00:00</lastmod>
+  <lastmod>2024-07-09T07:37:07+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://soumojitshomeblog.vercel.app/blogs/2ndsem/ARCADIA/</loc>
-  <lastmod>2024-06-13T12:19:51+00:00</lastmod>
+  <lastmod>2024-07-09T07:37:07+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://soumojitshomeblog.vercel.app/blogs/2ndsem/MyBirthday/</loc>
-  <lastmod>2024-06-13T12:19:51+00:00</lastmod>
+  <lastmod>2024-07-09T07:37:07+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://soumojitshomeblog.vercel.app/blogs/2ndsem/GCCDKolkata/</loc>
-  <lastmod>2024-06-13T12:19:51+00:00</lastmod>
+  <lastmod>2024-07-09T07:37:07+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://soumojitshomeblog.vercel.app/blogs/2ndsem/1stYearDone/</loc>
-  <lastmod>2024-06-13T12:19:51+00:00</lastmod>
+  <lastmod>2024-07-09T07:37:07+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://soumojitshomeblog.vercel.app/blogs/3rdsem/teachersday/</loc>
-  <lastmod>2024-06-13T12:19:51+00:00</lastmod>
+  <lastmod>2024-07-09T07:37:07+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://soumojitshomeblog.vercel.app/blogs/3rdsem/jagadhatripuja/</loc>
-  <lastmod>2024-06-13T12:19:51+00:00</lastmod>
+  <lastmod>2024-07-09T07:37:07+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://soumojitshomeblog.vercel.app/blogs/3rdsem/3rd-sem-lab-last-day/</loc>
-  <lastmod>2024-06-13T12:19:51+00:00</lastmod>
+  <lastmod>2024-07-09T07:37:07+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://soumojitshomeblog.vercel.app/blogs/4thsem/didirbia/</loc>
-  <lastmod>2024-06-13T12:19:51+00:00</lastmod>
+  <lastmod>2024-07-09T07:37:07+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://soumojitshomeblog.vercel.app/blogs/4thsem/techfiesta/</loc>
-  <lastmod>2024-06-13T12:19:51+00:00</lastmod>
+  <lastmod>2024-07-09T07:37:07+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://soumojitshomeblog.vercel.app/blogs/4thsem/2ndyeardone/</loc>
+  <lastmod>2024-07-09T07:37:07+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://soumojitshomeblog.vercel.app/projects/socialmediaweb/</loc>
-  <lastmod>2024-06-13T12:19:51+00:00</lastmod>
+  <lastmod>2024-07-09T07:37:07+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://soumojitshomeblog.vercel.app/projects/mydocswebapp/</loc>
-  <lastmod>2024-06-13T12:19:51+00:00</lastmod>
+  <lastmod>2024-07-09T07:37:07+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://soumojitshomeblog.vercel.app/projects/todowebapp/</loc>
-  <lastmod>2024-06-13T12:19:51+00:00</lastmod>
+  <lastmod>2024-07-09T07:37:07+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://soumojitshomeblog.vercel.app/projects/certifyhub/</loc>
-  <lastmod>2024-06-13T12:19:51+00:00</lastmod>
+  <lastmod>2024-07-09T07:37:07+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://soumojitshomeblog.vercel.app/projects/linkshortener/</loc>
-  <lastmod>2024-06-13T12:19:51+00:00</lastmod>
+  <lastmod>2024-07-09T07:37:07+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://soumojitshomeblog.vercel.app/projects/easyshare/</loc>
-  <lastmod>2024-06-13T12:19:51+00:00</lastmod>
+  <lastmod>2024-07-09T07:37:07+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://soumojitshomeblog.vercel.app/projects/attendance-manager/</loc>
-  <lastmod>2024-06-13T12:19:51+00:00</lastmod>
+  <lastmod>2024-07-09T07:37:07+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://soumojitshomeblog.vercel.app/projects/blog-webapp/</loc>
-  <lastmod>2024-06-13T12:19:51+00:00</lastmod>
+  <lastmod>2024-07-09T07:37:07+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://soumojitshomeblog.vercel.app/projects/nextjs-chatapp/</loc>
-  <lastmod>2024-06-13T12:19:51+00:00</lastmod>
+  <lastmod>2024-07-09T07:37:07+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://soumojitshomeblog.vercel.app/projects/college-website/</loc>
-  <lastmod>2024-06-13T12:19:51+00:00</lastmod>
+  <lastmod>2024-07-09T07:37:07+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://soumojitshomeblog.vercel.app/posts/started-my-program-at-AcademyofTechnology/</loc>
-  <lastmod>2024-06-13T12:19:51+00:00</lastmod>
+  <lastmod>2024-07-09T07:37:07+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://soumojitshomeblog.vercel.app/posts/GeeksforGeeks-T-shirt/</loc>
-  <lastmod>2024-06-13T12:19:51+00:00</lastmod>
+  <lastmod>2024-07-09T07:37:07+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://soumojitshomeblog.vercel.app/posts/GeeksforGeeks-bag/</loc>
-  <lastmod>2024-06-13T12:19:51+00:00</lastmod>
+  <lastmod>2024-07-09T07:37:07+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://soumojitshomeblog.vercel.app/posts/NighttimeCollegeCampus/</loc>
-  <lastmod>2024-06-13T12:19:51+00:00</lastmod>
+  <lastmod>2024-07-09T07:37:07+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://soumojitshomeblog.vercel.app/posts/CollegeCampusDay/</loc>
-  <lastmod>2024-06-13T12:19:51+00:00</lastmod>
+  <lastmod>2024-07-09T07:37:07+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://soumojitshomeblog.vercel.app/assets/My_Resume.pdf</loc>
-  <lastmod>2024-06-13T12:19:51+00:00</lastmod>
+  <lastmod>2024-07-09T07:37:07+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://soumojitshomeblog.vercel.app/certificates/pdfs/</loc>
-  <lastmod>2024-06-13T12:19:51+00:00</lastmod>
+  <lastmod>2024-07-09T07:37:07+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://soumojitshomeblog.vercel.app/assets/certificate/gfgcertificate.pdf</loc>
-  <lastmod>2024-06-13T12:19:51+00:00</lastmod>
+  <lastmod>2024-07-09T07:37:07+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 
