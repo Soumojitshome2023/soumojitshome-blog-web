@@ -32,7 +32,7 @@ hero:
       link: /blogs/
     - theme: alt
       text: Contact
-      link: /about/#✨-social-media
+      link: /about/#social-media
     - theme: alt
       text: Posts
       link: /posts/

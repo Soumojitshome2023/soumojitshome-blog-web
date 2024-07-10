@@ -44,7 +44,7 @@
 
 &nbsp;
 
-## **✨ About Me:**  
+## About Me:  
   I'm a 2nd-year student at the Academy of Technology, currently pursuing a degree in Electronics and Communication Engineering (ECE). My passion for technology extends beyond my coursework, as I have a keen interest in web development. I love exploring the world of coding and creating dynamic, user-friendly websites.
 
 - 🔭 Portfolio [https://soumojitshome.vercel.app](https://soumojitshome.vercel.app/) 😄  
@@ -75,7 +75,7 @@
 
 <img src="/assets/LoadingLine.gif">
 
-## **✨ Social Media :**  
+## Social Media :  
   
 
 - WhatsApp: [Click to send whatsapp message](https://api.whatsapp.com/send/?phone=9062300500&text=Heyy)  
@@ -118,7 +118,7 @@
   
 - Projects : [Projects](/projects/)
 
-- Resume : [Resume](#✨-resume)
+- Resume : [Resume](#resume)
 
 - Mail  : soumojitshome2021@gmail.com / soumojit.shome@gmail.com
 
@@ -191,7 +191,7 @@
 
 <br/>  
 
-## ✨ Connect with me :
+## Connect with me :
 
 
 <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px;">
@@ -217,7 +217,7 @@
 
 <br/>  
 
-## ✨ Github Stats :  
+## Github Stats :  
 
 
 <br/>  
@@ -243,9 +243,16 @@
 ![Graph](https://github-readme-activity-graph.vercel.app/graph?username=Soumojitshome2023&theme=react-dark)
 
 
-## ✨ Resume :
+## Resume :
 
-<iframe src="/assets/My_Resume.pdf" width="100%" height="500px"></iframe>
+
+**Link :**
+```sh
+   https://soumojitshomeblog.vercel.app/assets/My_Resume.pdf
+```
+
+
+<iframe src="https://soumojitshomeblog.vercel.app/assets/My_Resume.pdf" width="100%" height="500px"></iframe>
 
 ![wave-animation-bottom](/assets/techstacksvg/wave-animation-bottom.svg)
 

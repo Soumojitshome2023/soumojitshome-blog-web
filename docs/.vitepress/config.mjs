@@ -30,9 +30,9 @@ export default defineConfig({
           { text: 'Blogs', link: '/blogs/' },
           { text: 'Projects', link: '/projects/' },
           { text: 'Certificates', link: '/certificates/' },
-          { text: 'Resume', link: '/about/#✨-resume' },
-          { text: 'Contact with me', link: '/about/#✨-connect-with-me' },
-          { text: 'Other Links', link: '/about/#✨-social-media' },
+          { text: 'Resume', link: '/about/#resume' },
+          { text: 'Contact with me', link: '/about/#connect-with-me' },
+          { text: 'Other Links', link: '/about/#social-media' },
         ]
       },
       {
