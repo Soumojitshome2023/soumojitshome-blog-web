@@ -13,7 +13,7 @@ With this dynamic web app, users can seamlessly post multiple photos, express th
 
 <!-- ✨ **Video Link :** [Click to Visit YouTube Video](https://youtu.be/llMs_W74xwo?si=xwlPaqTv3eoxxO_M) -->
 
-<!-- ✨ **LinkedIn Post Link :** [Click to Visit LinkedIn Post]() -->
+✨ **LinkedIn Post Link :** [Click to Visit LinkedIn Post](https://www.linkedin.com/posts/soumojit-shome_nextjs-firebase-webdevelopment-activity-7216780701055037440-hhqk)
 
 
 

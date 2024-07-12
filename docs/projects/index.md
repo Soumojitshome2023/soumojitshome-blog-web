@@ -1,4 +1,4 @@
-# Main Projects
+# NextJs / ReactJs Main Projects
 
 1. [Social Media Web](/projects/socialmediaweb/)
 2. [My Docs Anywhere](/projects/mydocswebapp/)
@@ -11,7 +11,14 @@
 9. [NextJs Chat WebApp](/projects/nextjs-chatapp/)
 10. [College Website](/projects/college-website/)
 
-# Others Projects
+---
+
+# IOT Project
+1. [WiFi Controlled Car](/projects/wifi-controlled-car/)
+
+---
+
+# Simple HTML CSS JS Projects
 1. [Learning Web](https://learning-website-soumojit.vercel.app/)
 2. [Simple ToDo App](https://todo-webapp-soumojitshome.vercel.app/)
 3. [Money Use App](https://money-use-app.vercel.app/)

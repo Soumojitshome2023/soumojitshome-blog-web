@@ -103,6 +103,7 @@ export default defineConfig({
           { text: 'Blog WebApp', link: '/projects/blog-webapp/' },
           { text: 'NextJs Chat WebApp', link: '/projects/nextjs-chatapp/' },
           { text: 'College Website', link: '/projects/college-website/' },
+          { text: 'WiFi Controlled Car', link: '/projects/wifi-controlled-car/' },
 
         ]
       },
