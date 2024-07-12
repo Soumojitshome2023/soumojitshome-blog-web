@@ -7,8 +7,11 @@ Welcome to my blog! I'm Soumojit Shome, a second-year student at the Academy of 
     * [Random Day](/blogs/random/RandomDay/)
     * [College Pics](/blogs/random/CollegePics/)
 
-* **Tech :**
+* **Technical :**
     * [Markdown Parser and Renderer NPM Package](/blogs/random/markdown-parser-and-renderer-npm-package/)
+    * [Batch Script to Rename Files](/blogs/random/batch-script-rename-files/)
+    * [Renaming a Single File](/blogs/random/rename-single-file/)
+    * [Image Compression and Renaming Script](/blogs/random/image-compression-and-renaming-script/)
 
 
 ## 1st Semester
@@ -35,6 +38,9 @@ Welcome to my blog! I'm Soumojit Shome, a second-year student at the Academy of 
 * [Didir Bia](/blogs/4thsem/didirbia/)
 * [TechFiesta](/blogs/4thsem/techfiesta/)
 * [2nd Year Done](/blogs/4thsem/2ndyeardone/)
+
+## 5th Semester
+* coming soon... 🙂
 
 
 <br>

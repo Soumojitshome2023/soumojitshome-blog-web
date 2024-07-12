@@ -46,6 +46,9 @@ export default defineConfig({
               { text: 'Random Day', link: '/blogs/random/RandomDay/' },
               { text: 'College Pics', link: '/blogs/random/CollegePics/' },
               { text: 'Markdown Parser and Renderer NPM Package', link: '/blogs/random/markdown-parser-and-renderer-npm-package/' },
+              { text: 'Batch Script to Rename Files', link: '/blogs/random/batch-script-rename-files/' },
+              { text: 'Renaming a Single File', link: '/blogs/random/rename-single-file/' },
+              { text: 'Image Compression and Renaming Script', link: '/blogs/random/image-compression-and-renaming-script/' },
             ]
           },
           {

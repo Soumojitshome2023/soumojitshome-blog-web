@@ -5,6 +5,9 @@ I'm thrilled to share my recent project where I created a WiFi-controlled car us
 
 🔥 **Video Link :** [Video Link](https://youtu.be/FxY-Q4hZWhk)
 
+🔥 **LinkedIn Post Link :** [Click to Visit LinkedIn Post](https://www.linkedin.com/posts/soumojit-shome_iot-embeddedsystems-esp32-activity-7217419747603140608-rZZz)
+
+
 ## Table of Contents
 
 - [Table of Contents](#table-of-contents)
@@ -19,7 +22,7 @@ I'm thrilled to share my recent project where I created a WiFi-controlled car us
 - [Images](#images)
   - [Car Chassis Setup](#car-chassis-setup)
   - [L298N Motor Driver](#l298n-motor-driver)
-- [Motor Interior View](#motor-interior-view)
+  - [Motor Interior View](#motor-interior-view)
   - [Programming the ESP32](#programming-the-esp32-1)
   - [Complete Structure](#complete-structure)
   - [Control Page](#control-page)
@@ -119,7 +122,7 @@ Feel free to reach out if you have any questions or are working on similar proje
 ![wifi-car](./assets/wificar6.jpg)
 ![wifi-car](./assets/wificar14.jpg)
 
-## Motor Interior View
+### Motor Interior View
 ![wifi-car](./assets/wificar8.jpg)
 ![wifi-car](./assets/wificar12.jpg)
 ![wifi-car](./assets/wificar13.jpg)
