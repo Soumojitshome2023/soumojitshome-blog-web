@@ -1,3 +1,11 @@
+---
+head:
+  - - meta
+    - property: 'og:image'
+      content: /hallucinategirl.jpg
+
+---
+
 # The Hallucinate Girl
 
 * July 18, 2024 ✨
