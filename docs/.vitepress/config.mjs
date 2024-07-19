@@ -134,13 +134,13 @@ export default defineConfig({
       copyright: 'Copyright © 2024 Soumojit Shome'
     },
 
-    lastUpdated: {
-      text: 'Updated at',
-      formatOptions: {
-        dateStyle: 'full',
-        timeStyle: 'medium'
-      }
-    }
+    // lastUpdated: {
+    //   text: 'Updated at',
+    //   formatOptions: {
+    //     dateStyle: 'full',
+    //     timeStyle: 'medium'
+    //   }
+    // }
 
   }
 })
