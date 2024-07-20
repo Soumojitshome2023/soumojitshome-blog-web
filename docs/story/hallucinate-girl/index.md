@@ -29,9 +29,11 @@ I began hallucinating her presence, seeing her in familiar places and hearing he
 
 And that's how this story remains ongoing. I still yearn to know where she is, what happened, why she left, and many more questions for answers—why, what, where—questions left unanswered. But I've come to accept that some things may never be answered in this lifetime.
 
-I don't know why. I don't know what happened. I don't know where she is right now. It remains a mystery, a tale woven with unanswered questions that echo in my heart. I don't know. I don't know why...
+I don't know why. I don't know what happened. I don't know where she is right now. It remains a mystery, a tale woven with unanswered questions that echo in my heart. I don't know. I don't know why.....
 
 I hope she finds happiness, blessings, and safety wherever she may be…
 
-Thank God, please keep her safe and happy always... ✨
+God please keep her safe and happy always... ✨
+
+Thank You...♡...
 
