@@ -21,7 +21,7 @@ This story is never-ending one, but I write it as much as possible—as a friend
 
 on **October 19, 2022** my journey at a private engineering college began. The first day was nerve-wracking, filled with excitement and a hint of uncertainty. As classes began, I eagerly connected with new friends, each face bringing a sense of companionship and new hope to my college journey.
 
-After a few days, November began, and that's when I met her. She was always helpful but quiet, as if she carried a story she didn't want to share with anyone. Sometimes I would ask, but she never told me the story. And so life went on. November passed, then December, and and so on. Her untold story lingering in the background.
+After a few days, November began, and that's when I met her. She was always helpful but quiet, as if she carried a story she didn't want to share with anyone. Sometimes I would ask, but she never told me the story. And so life went on. November passed, then December, and so on. Her untold story lingering in the background.
 
 On **August 30, 2023**, we had our final conversation, not realizing it would be our last moment together. Days passed, and then suddenly, she vanished without a trace, leaving everyone wondering where she had gone. The uncertainty and the absence of closure weighed heavily on my heart. I searched tirelessly for her, trying everything I could to find any clue or information, but my efforts yielded no answers.
 
