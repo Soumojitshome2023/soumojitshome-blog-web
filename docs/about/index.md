@@ -252,7 +252,7 @@
 ```
 
 
-<iframe src="https://soumojitshomeblog.vercel.app/assets/My_Resume.pdf" width="100%" height="500px"></iframe>
+<iframe src="https://drive.google.com/file/d/1YHGb6EPhPRp3Ua9GklPlqrdqcJ3a54oI/preview" width="100%" height="500px"></iframe>
 
 ![wave-animation-bottom](/assets/techstacksvg/wave-animation-bottom.svg)
 
