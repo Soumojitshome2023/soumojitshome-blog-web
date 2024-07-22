@@ -2,7 +2,7 @@
 head:
   - - meta
     - property: 'og:image'
-      content: /hallucinategirl.jpg
+      content: /hallucinate-girl.jpeg
 
 ---
 
@@ -17,6 +17,9 @@ Today, on **July 18th, 2024**, as I reflect on this story, I remember her with b
 This story is never-ending one, but I write it as much as possible—as a friend, as a human, as a true lover from my perspective.
 
 ---
+
+![hallucinate-girl](./assets/hallucinate-girl.jpeg)
+
 ---
 
 on **October 19, 2022** my journey at a private engineering college began. The first day was nerve-wracking, filled with excitement and a hint of uncertainty. As classes began, I eagerly connected with new friends, each face bringing a sense of companionship and new hope to my college journey.
