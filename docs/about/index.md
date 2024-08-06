@@ -86,6 +86,8 @@
 
 - YouTube: [@soumojitshome](https://youtube.com/@soumojitshome)  
   
+- Medium: [@soumojitshome2021](https://soumojitshome2021.medium.com/)  
+  
 - Instagram: [soumojit_shome](https://www.instagram.com/soumojit_shome/)  
   
 - Threads: [@soumojit_shome](https://www.threads.net/@soumojit_shome)  
